@@ -47,6 +47,7 @@ const features = records.data.reduce((all, row) => {
     const findSpot = row['findspot'];
     const Link = institution + '-' + city + '' + fipNumber;
     const place = institution + ', ' + city;
+    const description = 'Catalogue number: ' + fipNumber + '<br/>' + institution + ', ' + city + ', ' + country + '<br/>' + 'Accession number: ' + accessionNumber + '<br/>' + 'Findspot: ' + findSpot;
     console.log(place)
     const peripleoRecord = {
        '@id': accessionNumber.trim(),
@@ -61,7 +62,10 @@ const features = records.data.reduce((all, row) => {
             findspot: findSpot,
             accessionNumber: accessionNumber,
             catalogueNumber: fipNumber
-        }
+        },
+        descriptions: [{
+            value: description
+        }]
     };
     console.log(peripleoRecord)
     const features = Link?.trim() ? [
