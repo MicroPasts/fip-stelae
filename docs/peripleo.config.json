@@ -23,7 +23,7 @@
       "name": "discovery place", "path": ["properties", "findspot"]
     },
     {
-      "city": "city", "path": ["properties", "city"]
+      "name": "city", "path": ["properties", "city"]
     }
   ]
 }
