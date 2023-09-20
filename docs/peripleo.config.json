@@ -1,0 +1,26 @@
+{
+  "initial_bounds": [-7.9, 49.5, 2.2, 59.4],
+  "map_style": "./map-style-OSM.json",
+  "data": [
+    {
+      "name": "First Intermediate Period Stela/False doors",
+      "format": "LINKED_PLACES",
+      "src": "./data/fipLP.json",
+      "attribution": "Dr Melanie Pitkin, Chau Chuk Wing Museum"
+    }
+  ],
+  "facets": [
+    {
+      "name": "object type", "path": ["properties", "objectType"]
+    },
+    {
+      "name": "museum", "path": ["properties", "museum"]
+    },
+    {
+      "name": "country", "path": ["properties", "country"]
+    },
+    {
+      "name": "discovery place", "path": ["properties", "findspot"]
+    }
+  ]
+}
