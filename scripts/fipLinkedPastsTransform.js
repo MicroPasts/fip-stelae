@@ -49,7 +49,7 @@ const features = records.data.reduce((all, row) => {
     const place = institution + ', ' + city;
     console.log(place)
     const peripleoRecord = {
-       '@id': fipNumber.trim() + '+' + city.trim(),
+       '@id': accessionNumber.trim(),
         type: 'Feature',
         properties: {
             title: title,

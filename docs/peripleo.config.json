@@ -6,7 +6,7 @@
       "name": "First Intermediate Period Stela/False doors",
       "format": "LINKED_PLACES",
       "src": "./data/fipLP.json",
-      "attribution": "Dr Melanie Pitkin, Chau Chuk Wing Museum"
+      "attribution": "Dr Melanie Pitkin, Chau Chak Wing Museum"
     }
   ],
   "facets": [
@@ -14,13 +14,16 @@
       "name": "object type", "path": ["properties", "objectType"]
     },
     {
-      "name": "museum", "path": ["properties", "museum"]
+      "name": "museum", "path": ["properties", "institution"]
     },
     {
       "name": "country", "path": ["properties", "country"]
     },
     {
       "name": "discovery place", "path": ["properties", "findspot"]
+    },
+    {
+      "city": "city", "path": ["properties", "city"]
     }
   ]
 }

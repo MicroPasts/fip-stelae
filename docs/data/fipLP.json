@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "features": [
     {
-      "@id": "242+Birmingham",
+      "@id": "1981.122",
       "type": "Feature",
       "properties": {
         "title": "False door of ffj, Saqqara [242]",
@@ -25,7 +25,7 @@
       }
     },
     {
-      "@id": "426+Asola",
+      "@id": "03/00025391",
       "type": "Feature",
       "properties": {
         "title": "Stela of xwj, probably Abydos [426]",
@@ -48,7 +48,7 @@
       }
     },
     {
-      "@id": "247+Aswan",
+      "@id": "2869",
       "type": "Feature",
       "properties": {
         "title": "False door of mmy, found near Kom Ombo [247]",
@@ -71,7 +71,7 @@
       }
     },
     {
-      "@id": "+Atlanta",
+      "@id": "2014.033.001",
       "type": "Feature",
       "properties": {
         "title": "Stela of nb.t-jt(.f), Naga ed-Der",
@@ -94,7 +94,7 @@
       }
     },
     {
-      "@id": "236+Athens",
+      "@id": "28",
       "type": "Feature",
       "properties": {
         "title": "False door of ptH-nxt and mrjt-mwt.s, Saqqara [236]",
@@ -117,7 +117,7 @@
       }
     },
     {
-      "@id": "495A+Athens",
+      "@id": "30",
       "type": "Feature",
       "properties": {
         "title": "False door of sn.t-jt.s, probably Saqqara [495A]",
@@ -140,7 +140,7 @@
       }
     },
     {
-      "@id": "289+Baltimore",
+      "@id": "22.424",
       "type": "Feature",
       "properties": {
         "title": "Hybrid false door stela of mHnw, probably Abydos [289]",
@@ -163,7 +163,7 @@
       }
     },
     {
-      "@id": "326+Baltimore",
+      "@id": "22.85",
       "type": "Feature",
       "properties": {
         "title": "Stela of nfr-xAbt, probably Naga ed-Der [326]",
@@ -186,7 +186,7 @@
       }
     },
     {
-      "@id": "79+Bangor",
+      "@id": "Unknown",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of unknown, Deir el-Bahri [79]",
@@ -209,7 +209,7 @@
       }
     },
     {
-      "@id": "645+Beni Suef",
+      "@id": "TR 27.4.22.5",
       "type": "Feature",
       "properties": {
         "title": "Stela of [j]n-[jt.f], Dra Abu el-Naga [645]",
@@ -232,7 +232,7 @@
       }
     },
     {
-      "@id": "403+Berkeley",
+      "@id": "5-357",
       "type": "Feature",
       "properties": {
         "title": "Stela of HqA, unknown [403]",
@@ -255,7 +255,7 @@
       }
     },
     {
-      "@id": "231+Berkeley",
+      "@id": "6-1073 / 19867",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of pAj, Naga ed-Der [231]",
@@ -278,7 +278,7 @@
       }
     },
     {
-      "@id": "211+Berkeley",
+      "@id": "6-1080 / 6-1942",
       "type": "Feature",
       "properties": {
         "title": "Stela fragments of [w]H[A]j, Naga ed-Der [211]",
@@ -301,7 +301,7 @@
       }
     },
     {
-      "@id": "310+Berkeley",
+      "@id": "6-1081",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of nbt-jt(f), Naga ed-Der [310]",
@@ -324,7 +324,7 @@
       }
     },
     {
-      "@id": "11+Berkeley",
+      "@id": "6-1204",
       "type": "Feature",
       "properties": {
         "title": "Stela of ppy-snb, Naga ed-Der [11]",
@@ -347,7 +347,7 @@
       }
     },
     {
-      "@id": "614+Berkeley",
+      "@id": "6-1251",
       "type": "Feature",
       "properties": {
         "title": "Stela of unknown, Naga ed-Der [614]",
@@ -370,7 +370,7 @@
       }
     },
     {
-      "@id": "67+Berkeley",
+      "@id": "6-1252",
       "type": "Feature",
       "properties": {
         "title": "Stela of jn-jt.f-aA, Naga ed-Der [67]",
@@ -393,7 +393,7 @@
       }
     },
     {
-      "@id": "177+Berkeley",
+      "@id": "6-1253",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of jtj-aA, Naga ed-Der [177]",
@@ -416,7 +416,7 @@
       }
     },
     {
-      "@id": "634+Berkeley",
+      "@id": "6-1257",
       "type": "Feature",
       "properties": {
         "title": "Stela of unknown, Naga ed-Der [634]",
@@ -439,7 +439,7 @@
       }
     },
     {
-      "@id": "476+Berkeley",
+      "@id": "6-1435",
       "type": "Feature",
       "properties": {
         "title": "Stela of sfxj, Naga ed-Der [476]",
@@ -462,7 +462,7 @@
       }
     },
     {
-      "@id": "154A+Berkeley",
+      "@id": "6-1554",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of jr-kmt, Naga ed-Der [154A]",
@@ -485,7 +485,7 @@
       }
     },
     {
-      "@id": "111+Berkeley",
+      "@id": "6-1576",
       "type": "Feature",
       "properties": {
         "title": "Stela of jbw, Naga ed-Der [111]",
@@ -508,7 +508,7 @@
       }
     },
     {
-      "@id": "318+Berkeley",
+      "@id": "6-1589",
       "type": "Feature",
       "properties": {
         "title": "Stela of nfr-jwnw/xwy, Naga ed-Der [318]",
@@ -531,7 +531,7 @@
       }
     },
     {
-      "@id": "139+Berkeley",
+      "@id": "6-1655",
       "type": "Feature",
       "properties": {
         "title": "Stela of jn-Hrt-nxt, Naga ed-Der [139]",
@@ -554,7 +554,7 @@
       }
     },
     {
-      "@id": "564+Berkeley",
+      "@id": "6-1691",
       "type": "Feature",
       "properties": {
         "title": "Stela of Tm-mrry, Naga ed-Der [564]",
@@ -577,7 +577,7 @@
       }
     },
     {
-      "@id": "373+Berkeley",
+      "@id": "6-1847",
       "type": "Feature",
       "properties": {
         "title": "Stela of Hnj, Naga ed-Der [373]",
@@ -600,7 +600,7 @@
       }
     },
     {
-      "@id": "605+Berkeley",
+      "@id": "6-1871",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of unknown, Naga ed-Der [605]",
@@ -623,7 +623,7 @@
       }
     },
     {
-      "@id": "268+Berkeley",
+      "@id": "6-1873",
       "type": "Feature",
       "properties": {
         "title": "Stela of mrw, Naga ed-Der [268]",
@@ -646,7 +646,7 @@
       }
     },
     {
-      "@id": "140+Berkeley",
+      "@id": "Jun-03",
       "type": "Feature",
       "properties": {
         "title": "Stela of jn-Hrt-nxt, Naga ed-Der [140]",
@@ -669,7 +669,7 @@
       }
     },
     {
-      "@id": "400+Berkeley",
+      "@id": "Jun-51",
       "type": "Feature",
       "properties": {
         "title": "Stela of Hsj, Naga ed-Der [400]",
@@ -692,7 +692,7 @@
       }
     },
     {
-      "@id": "322+Berkeley",
+      "@id": "Jun-42",
       "type": "Feature",
       "properties": {
         "title": "Stela of nfr-nHsj, Naga ed-Der [322]",
@@ -715,7 +715,7 @@
       }
     },
     {
-      "@id": "620+Berkeley",
+      "@id": "Jun-63",
       "type": "Feature",
       "properties": {
         "title": "Stela of unknown, Naga ed-Der [620]",
@@ -738,7 +738,7 @@
       }
     },
     {
-      "@id": "624+Berkeley",
+      "@id": "Jun-42",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of unknown and wife smjt-kA, Naga ed-Der [624]",
@@ -761,7 +761,7 @@
       }
     },
     {
-      "@id": "478+Berkeley",
+      "@id": "Jun-14",
       "type": "Feature",
       "properties": {
         "title": "Stela of smjt-kA, Naga ed-Der [478]",
@@ -784,7 +784,7 @@
       }
     },
     {
-      "@id": "265+Berkeley",
+      "@id": "Jun-18",
       "type": "Feature",
       "properties": {
         "title": "Stela of mryt, Naga ed-Der [265]",
@@ -807,7 +807,7 @@
       }
     },
     {
-      "@id": "161+Berkeley",
+      "@id": "Jun-15",
       "type": "Feature",
       "properties": {
         "title": "Stela of jrw-kmt, Naga ed-Der [161]",
@@ -830,7 +830,7 @@
       }
     },
     {
-      "@id": "269+Berkeley",
+      "@id": "Jun-19",
       "type": "Feature",
       "properties": {
         "title": "Stela fragments of mrw/jy, Naga ed-Der [269]",
@@ -853,7 +853,7 @@
       }
     },
     {
-      "@id": "660+Berkeley",
+      "@id": "Jun-20",
       "type": "Feature",
       "properties": {
         "title": "Stela of Xtj, Naga ed-Der [660]  ",
@@ -876,7 +876,7 @@
       }
     },
     {
-      "@id": "378+Berkeley",
+      "@id": "Jun-23",
       "type": "Feature",
       "properties": {
         "title": "Stela of Hny, Naga ed-Der [378]",
@@ -899,7 +899,7 @@
       }
     },
     {
-      "@id": "561+Berkeley",
+      "@id": "Jun-29",
       "type": "Feature",
       "properties": {
         "title": "Stela of Tby, Naga ed-Der [561]",
@@ -922,7 +922,7 @@
       }
     },
     {
-      "@id": "244+Berkeley",
+      "@id": "Jun-30",
       "type": "Feature",
       "properties": {
         "title": "Stela of mAa-xrw, Naga ed-Der [244]",
@@ -945,7 +945,7 @@
       }
     },
     {
-      "@id": "152+Berkeley",
+      "@id": "6-11468",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of jnt-jt.s, Naga ed-Der [152]",
@@ -968,7 +968,7 @@
       }
     },
     {
-      "@id": "649+Berkeley",
+      "@id": "6-11469",
       "type": "Feature",
       "properties": {
         "title": "Stela fragments of jtj, Naga ed-Der [649]",
@@ -991,7 +991,7 @@
       }
     },
     {
-      "@id": "667+Berkeley",
+      "@id": "6-11470",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of unknown, Naga ed-Der [667]",
@@ -1014,7 +1014,7 @@
       }
     },
     {
-      "@id": "651+Berkeley",
+      "@id": "6-14077",
       "type": "Feature",
       "properties": {
         "title": "False door fragments of anx-HA.f, Naga ed-Der [651]",
@@ -1037,7 +1037,7 @@
       }
     },
     {
-      "@id": "12+Berkeley",
+      "@id": "6-14079",
       "type": "Feature",
       "properties": {
         "title": "Stela of ppy-snb, Naga ed-Der [12]",
@@ -1060,7 +1060,7 @@
       }
     },
     {
-      "@id": "632+Berkeley",
+      "@id": "6-14265",
       "type": "Feature",
       "properties": {
         "title": "Stela of unknown and wife Sd-jt.s, Naga ed-Der [632]",
@@ -1083,7 +1083,7 @@
       }
     },
     {
-      "@id": "10+Berkeley",
+      "@id": "6-14552",
       "type": "Feature",
       "properties": {
         "title": "Stela of ppy-jmA, Naga ed-Der [10]",
@@ -1106,7 +1106,7 @@
       }
     },
     {
-      "@id": "109+Berkeley",
+      "@id": "6-14553",
       "type": "Feature",
       "properties": {
         "title": "Stela of jbj-jqr, Naga ed-Der [109]",
@@ -1129,7 +1129,7 @@
       }
     },
     {
-      "@id": "451+Berkeley",
+      "@id": "6-16024",
       "type": "Feature",
       "properties": {
         "title": "Stela of sAbj, Naga ed-Der [451]",
@@ -1152,7 +1152,7 @@
       }
     },
     {
-      "@id": "570+Berkeley",
+      "@id": "6-19807",
       "type": "Feature",
       "properties": {
         "title": "Stela of Tnj-Htp, Naga ed-Der [570]",
@@ -1175,7 +1175,7 @@
       }
     },
     {
-      "@id": "668+Berkeley",
+      "@id": "6-19832",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of unknown, Naga ed-Der [668]",
@@ -1198,7 +1198,7 @@
       }
     },
     {
-      "@id": "506+Berkeley",
+      "@id": "6-19881",
       "type": "Feature",
       "properties": {
         "title": "Stela of st-nt-jnHrt, Naga ed-Der [506]",
@@ -1221,7 +1221,7 @@
       }
     },
     {
-      "@id": "418+Berkeley",
+      "@id": "6-19887",
       "type": "Feature",
       "properties": {
         "title": "Stela of Htp-n-jb, Naga ed-Der [418]",
@@ -1244,7 +1244,7 @@
       }
     },
     {
-      "@id": "55+Berkeley",
+      "@id": "6-19911",
       "type": "Feature",
       "properties": {
         "title": "Stela of jn-jt.f, probably Rizeiqat [55]",
@@ -1267,7 +1267,7 @@
       }
     },
     {
-      "@id": "661+Berlin",
+      "@id": "35/66",
       "type": "Feature",
       "properties": {
         "title": "Stela of snj, Thinite nome [661]",
@@ -1290,7 +1290,7 @@
       }
     },
     {
-      "@id": "108+Berlin",
+      "@id": "37/66",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of jbj, Thinite nome [108]",
@@ -1313,7 +1313,7 @@
       }
     },
     {
-      "@id": "340+Berlin",
+      "@id": "536/69",
       "type": "Feature",
       "properties": {
         "title": "Stela of nDm-jb, Thinite nome [340]  ",
@@ -1336,7 +1336,7 @@
       }
     },
     {
-      "@id": "659+Berlin",
+      "@id": "537/69",
       "type": "Feature",
       "properties": {
         "title": "Stela of HqA, Thinite nome [659]",
@@ -1359,7 +1359,7 @@
       }
     },
     {
-      "@id": "544+Berlin",
+      "@id": "1151",
       "type": "Feature",
       "properties": {
         "title": "False door of gmnj-anx, Memphite necropolis [544]",
@@ -1382,7 +1382,7 @@
       }
     },
     {
-      "@id": "364A+Berlin",
+      "@id": "1197",
       "type": "Feature",
       "properties": {
         "title": "Stela of Hfnr, probably Abydos [364A]",
@@ -1405,7 +1405,7 @@
       }
     },
     {
-      "@id": "319+Berlin",
+      "@id": "7512",
       "type": "Feature",
       "properties": {
         "title": "Tall, elongated stela of nfr-prt, Naga ed-Der [319]",
@@ -1428,7 +1428,7 @@
       }
     },
     {
-      "@id": "610+Berlin",
+      "@id": "7716",
       "type": "Feature",
       "properties": {
         "title": "False door of unknown and wife Hnnt, unknown [610]",
@@ -1451,7 +1451,7 @@
       }
     },
     {
-      "@id": "74+Berlin",
+      "@id": "7718",
       "type": "Feature",
       "properties": {
         "title": "False door of sAt-jn-jt.f, Unknown [74]",
@@ -1474,7 +1474,7 @@
       }
     },
     {
-      "@id": "+Berlin",
+      "@id": "7730",
       "type": "Feature",
       "properties": {
         "title": "Block of unknown provenance from a private tomb",
@@ -1497,7 +1497,7 @@
       }
     },
     {
-      "@id": "583+Berlin",
+      "@id": "7765",
       "type": "Feature",
       "properties": {
         "title": "Tall, elongated stela of DAtj, Abydos [583]",
@@ -1520,7 +1520,7 @@
       }
     },
     {
-      "@id": "513+Berlin",
+      "@id": "7779",
       "type": "Feature",
       "properties": {
         "title": "Stela of Spss-ptH, probably Memphis [513]",
@@ -1543,7 +1543,7 @@
       }
     },
     {
-      "@id": "362+Berlin",
+      "@id": "9055",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of HAt-kH, Dendera [362]",
@@ -1566,7 +1566,7 @@
       }
     },
     {
-      "@id": "600+Berlin",
+      "@id": "9056",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of unknown, Naqada [600]",
@@ -1589,7 +1589,7 @@
       }
     },
     {
-      "@id": "95+Berlin",
+      "@id": "13272",
       "type": "Feature",
       "properties": {
         "title": "Stela of jn-jt.f, Dra Abu el-Naga [95]",
@@ -1612,7 +1612,7 @@
       }
     },
     {
-      "@id": "68+Berlin",
+      "@id": "14334",
       "type": "Feature",
       "properties": {
         "title": "Stela of jn-jt.f-iqr, probably Rizeiqat [68]",
@@ -1635,7 +1635,7 @@
       }
     },
     {
-      "@id": "353+Berlin",
+      "@id": "14383",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of rHw-r-Aw.s[n], Mo’alla [353]",
@@ -1658,7 +1658,7 @@
       }
     },
     {
-      "@id": "540+Berlin",
+      "@id": "22820",
       "type": "Feature",
       "properties": {
         "title": "Stela of kAy, Thebes [540]",
@@ -1681,7 +1681,7 @@
       }
     },
     {
-      "@id": "664+Berlin",
+      "@id": "24019",
       "type": "Feature",
       "properties": {
         "title": "Stela of Sd-mwt.f, Thinite nome [664]",
@@ -1704,7 +1704,7 @@
       }
     },
     {
-      "@id": "537+Berlin",
+      "@id": "24032",
       "type": "Feature",
       "properties": {
         "title": "Stela of qds, Gebelein–Rizeiqat region [537]",
@@ -1727,7 +1727,7 @@
       }
     },
     {
-      "@id": "474+Berlin",
+      "@id": "31013",
       "type": "Feature",
       "properties": {
         "title": "Stela of sfxj, Naga ed-Der [474]",
@@ -1750,7 +1750,7 @@
       }
     },
     {
-      "@id": "650+Berlin",
+      "@id": "31292",
       "type": "Feature",
       "properties": {
         "title": "Stela of jtj (?), Thinite nome [650]",
@@ -1773,7 +1773,7 @@
       }
     },
     {
-      "@id": "354+Birmingham",
+      "@id": "213.72",
       "type": "Feature",
       "properties": {
         "title": "Stela of rHw-r-Dr.sn, Naga ed-Der (?) [354]",
@@ -1796,7 +1796,7 @@
       }
     },
     {
-      "@id": "24+Bolton",
+      "@id": "1898.56:34",
       "type": "Feature",
       "properties": {
         "title": "Stela of nfr-sSm-ppy snnj, Dendera [24]",
@@ -1819,7 +1819,7 @@
       }
     },
     {
-      "@id": "492+Bolton",
+      "@id": "1898.56:35",
       "type": "Feature",
       "properties": {
         "title": "False door fragment of sn-nDsw, Dendera [492]",
@@ -1842,7 +1842,7 @@
       }
     },
     {
-      "@id": "493+Bolton",
+      "@id": "1898.56:37",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of sn-nDsw, Dendera [493]",
@@ -1865,7 +1865,7 @@
       }
     },
     {
-      "@id": "494+Bolton",
+      "@id": "1898.56:38",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of sn-nDsw, Dendera [494]",
@@ -1888,7 +1888,7 @@
       }
     },
     {
-      "@id": "226+Bolton",
+      "@id": "1898.56:39",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of bbj, Dendera [226]",
@@ -1911,7 +1911,7 @@
       }
     },
     {
-      "@id": "282+Bolton",
+      "@id": "1898.56:41",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of mrrj, Dendera [282]",
@@ -1934,7 +1934,7 @@
       }
     },
     {
-      "@id": "559+Bolton",
+      "@id": "1898.56:43",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of TAwtj rsj, Dendera [559]",
@@ -1957,7 +1957,7 @@
       }
     },
     {
-      "@id": "+Boston",
+      "@id": "21.961",
       "type": "Feature",
       "properties": {
         "title": "False door of rd-j-ns, Giza",
@@ -1980,7 +1980,7 @@
       }
     },
     {
-      "@id": "456+Boston",
+      "@id": "25.593a–c",
       "type": "Feature",
       "properties": {
         "title": "False door of sAt-jnj-ttj/sAt-snj, Saqqara [456]",
@@ -2003,7 +2003,7 @@
       }
     },
     {
-      "@id": "388+Boston",
+      "@id": "25.625",
       "type": "Feature",
       "properties": {
         "title": "Stela of Hnnj, Sheikh Farag [388]",
@@ -2026,7 +2026,7 @@
       }
     },
     {
-      "@id": "129+Boston",
+      "@id": "25.626",
       "type": "Feature",
       "properties": {
         "title": "Stela of jmAj, Sheikh Farag [129]",
@@ -2049,7 +2049,7 @@
       }
     },
     {
-      "@id": "100+Boston",
+      "@id": "25.627",
       "type": "Feature",
       "properties": {
         "title": "Stela of jy, Sheikh Farag [100]",
@@ -2072,7 +2072,7 @@
       }
     },
     {
-      "@id": "459+Boston",
+      "@id": "25.628",
       "type": "Feature",
       "properties": {
         "title": "Stela of sjpt, Sheikh Farag [459]",
@@ -2095,7 +2095,7 @@
       }
     },
     {
-      "@id": "631+Boston",
+      "@id": "25.629",
       "type": "Feature",
       "properties": {
         "title": "Stela of unknown, Sheikh Farag [631]",
@@ -2118,7 +2118,7 @@
       }
     },
     {
-      "@id": "449+Boston",
+      "@id": "25.659",
       "type": "Feature",
       "properties": {
         "title": "Stela of sA-jnHrt, Sheikh Farag [449]",
@@ -2141,7 +2141,7 @@
       }
     },
     {
-      "@id": "136+Boston",
+      "@id": "25.671",
       "type": "Feature",
       "properties": {
         "title": "Stela of jn-Hrt-nxt, Sheikh Farag [136]",
@@ -2164,7 +2164,7 @@
       }
     },
     {
-      "@id": "52+Boston",
+      "@id": "25.672",
       "type": "Feature",
       "properties": {
         "title": "Stela of jn-jt.f, Sheikh Farag [52]",
@@ -2187,7 +2187,7 @@
       }
     },
     {
-      "@id": "529+Boston",
+      "@id": "25.673",
       "type": "Feature",
       "properties": {
         "title": "Stela of Sd-jt.s, Sheikh Farag [529]",
@@ -2210,7 +2210,7 @@
       }
     },
     {
-      "@id": "162+Boston",
+      "@id": "25.674",
       "type": "Feature",
       "properties": {
         "title": "Stela of jrrj, Sheikh Farag [162]",
@@ -2233,7 +2233,7 @@
       }
     },
     {
-      "@id": "535+Boston",
+      "@id": "25.675",
       "type": "Feature",
       "properties": {
         "title": "Stela of qnjt, Sheikh Farag [535]",
@@ -2256,7 +2256,7 @@
       }
     },
     {
-      "@id": "359+Boston",
+      "@id": "25.676",
       "type": "Feature",
       "properties": {
         "title": "Stela fragments of HAgj, Sheikh Farag [359]",
@@ -2279,7 +2279,7 @@
       }
     },
     {
-      "@id": "423+Boston",
+      "@id": "25.677",
       "type": "Feature",
       "properties": {
         "title": "Stela of HDwj, Sheikh Farag [423]",
@@ -2302,7 +2302,7 @@
       }
     },
     {
-      "@id": "5+Boston",
+      "@id": "25.678",
       "type": "Feature",
       "properties": {
         "title": "Hybrid stela of anx-n.s-ppy, Sheikh Farag [5]  ",
@@ -2325,7 +2325,7 @@
       }
     },
     {
-      "@id": "144+Boston",
+      "@id": "25.679",
       "type": "Feature",
       "properties": {
         "title": "Stela of jn-Hrt-HqA, Sheikh Farag [144]",
@@ -2348,7 +2348,7 @@
       }
     },
     {
-      "@id": "82+Boston",
+      "@id": "25.68",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of jn-jt.f, El-Deir [82] ",
@@ -2371,7 +2371,7 @@
       }
     },
     {
-      "@id": "335+Boston",
+      "@id": "3.1848",
       "type": "Feature",
       "properties": {
         "title": "Stela of nnw, probably Rizeiqat [335]",
@@ -2394,7 +2394,7 @@
       }
     },
     {
-      "@id": "180+Boston",
+      "@id": "4.1851",
       "type": "Feature",
       "properties": {
         "title": "Hybrid false door stela of jtty, Dra Abu el-Naga [180]",
@@ -2417,7 +2417,7 @@
       }
     },
     {
-      "@id": "128+Boston",
+      "@id": "12.1475",
       "type": "Feature",
       "properties": {
         "title": "Stela of jmA, Nag el-Mesheikh [128]",
@@ -2440,7 +2440,7 @@
       }
     },
     {
-      "@id": "351+Boston",
+      "@id": "12.1476",
       "type": "Feature",
       "properties": {
         "title": "Stela of rHwy, Nag el-Mesheikh [351]",
@@ -2463,7 +2463,7 @@
       }
     },
     {
-      "@id": "527+Boston",
+      "@id": "12.1477",
       "type": "Feature",
       "properties": {
         "title": "Stela of Sd-jt.f, Nag el-Mesheikh [527]",
@@ -2486,7 +2486,7 @@
       }
     },
     {
-      "@id": "380+Boston",
+      "@id": "12.1478",
       "type": "Feature",
       "properties": {
         "title": "Stela of Hny, Nag el-Mesheikh [380]",
@@ -2509,7 +2509,7 @@
       }
     },
     {
-      "@id": "205+Boston",
+      "@id": "12.1479",
       "type": "Feature",
       "properties": {
         "title": "Stela of wADsTj, Nag el-Mesheikh [205]",
@@ -2532,7 +2532,7 @@
       }
     },
     {
-      "@id": "253+Boston",
+      "@id": "12.148",
       "type": "Feature",
       "properties": {
         "title": "Stela of mnjw, Nag el-Mesheikh [253]",
@@ -2555,7 +2555,7 @@
       }
     },
     {
-      "@id": "424+Boston",
+      "@id": "25.1514",
       "type": "Feature",
       "properties": {
         "title": "False door of xA(j), Giza [424]",
@@ -2578,7 +2578,7 @@
       }
     },
     {
-      "@id": "225+Boston",
+      "@id": "98.1031",
       "type": "Feature",
       "properties": {
         "title": "Stela of bbj, Dendera [225]",
@@ -2601,7 +2601,7 @@
       }
     },
     {
-      "@id": "252+Boston",
+      "@id": "98.1034",
       "type": "Feature",
       "properties": {
         "title": "Stela of mnj, Dendera [252]",
@@ -2624,7 +2624,7 @@
       }
     },
     {
-      "@id": "560+Boston",
+      "@id": "98.1036",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of TAwtj rtj, Dendera [560]",
@@ -2647,7 +2647,7 @@
       }
     },
     {
-      "@id": "616+Boston",
+      "@id": "98.1039",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of unknown, Dendera [616]",
@@ -2670,7 +2670,7 @@
       }
     },
     {
-      "@id": "617+Boston",
+      "@id": "98.1041",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of unknown, Dendera [617]",
@@ -2693,7 +2693,7 @@
       }
     },
     {
-      "@id": "303+Boston",
+      "@id": "98.1042",
       "type": "Feature",
       "properties": {
         "title": "Stela of nb-Hq, Dendera [303]",
@@ -2716,7 +2716,7 @@
       }
     },
     {
-      "@id": "625+Boston",
+      "@id": "98.1043",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of unknown, Dendera [625]",
@@ -2739,7 +2739,7 @@
       }
     },
     {
-      "@id": "234+Boston",
+      "@id": "98.1049",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of ptfj, Dendera [234]",
@@ -2762,7 +2762,7 @@
       }
     },
     {
-      "@id": "497+Boston",
+      "@id": "98.105",
       "type": "Feature",
       "properties": {
         "title": "Stela of snt-txj, Dendera [497]",
@@ -2785,7 +2785,7 @@
       }
     },
     {
-      "@id": "116+Bremen",
+      "@id": "B.935",
       "type": "Feature",
       "properties": {
         "title": "False door fragment of jpj, Abusir [116]",
@@ -2808,7 +2808,7 @@
       }
     },
     {
-      "@id": "255+Bristol",
+      "@id": "H 487",
       "type": "Feature",
       "properties": {
         "title": "Stela of mnnj, Dendera [255]",
@@ -2831,7 +2831,7 @@
       }
     },
     {
-      "@id": "488+Bristol",
+      "@id": "H 488",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of snnj, Dendera [488]",
@@ -2854,7 +2854,7 @@
       }
     },
     {
-      "@id": "348+Brooklyn",
+      "@id": "7.449",
       "type": "Feature",
       "properties": {
         "title": "False door of rnn-jtf.s, unknown [348]",
@@ -2877,7 +2877,7 @@
       }
     },
     {
-      "@id": "245+Brooklyn",
+      "@id": "39.1",
       "type": "Feature",
       "properties": {
         "title": "Hybrid false door stela of mAat, Thinite nome [245]",
@@ -2900,7 +2900,7 @@
       }
     },
     {
-      "@id": "83+Brooklyn",
+      "@id": "54.66",
       "type": "Feature",
       "properties": {
         "title": "Stela of jn-jt.f, Thebes [83]",
@@ -2923,7 +2923,7 @@
       }
     },
     {
-      "@id": "587+Brooklyn",
+      "@id": "69.74.1",
       "type": "Feature",
       "properties": {
         "title": "Stela of Dfj, Naqada [587]",
@@ -2946,7 +2946,7 @@
       }
     },
     {
-      "@id": "585+Brooklyn",
+      "@id": "86.226.29",
       "type": "Feature",
       "properties": {
         "title": "Hybrid false door steal of DfAtkA, Abydos [585]",
@@ -2969,7 +2969,7 @@
       }
     },
     {
-      "@id": "77+Brussels",
+      "@id": "E.04985",
       "type": "Feature",
       "properties": {
         "title": "Stela of DArj, Dra Abu el-Naga [77]",
@@ -2992,7 +2992,7 @@
       }
     },
     {
-      "@id": "291+Brussels",
+      "@id": "E.05864",
       "type": "Feature",
       "properties": {
         "title": "Stela of mDHj, unknown [291]",
@@ -3015,7 +3015,7 @@
       }
     },
     {
-      "@id": "615+Brussels",
+      "@id": "E.06146",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of unknown, unknown [615]",
@@ -3038,7 +3038,7 @@
       }
     },
     {
-      "@id": "29+Brussels",
+      "@id": "E.06303",
       "type": "Feature",
       "properties": {
         "title": "Stèle maison of Xnw, South Saqqara [29]",
@@ -3061,7 +3061,7 @@
       }
     },
     {
-      "@id": "372+Brussels",
+      "@id": "E.08244",
       "type": "Feature",
       "properties": {
         "title": "Stela of Hnj, Thinite nome [372]",
@@ -3084,7 +3084,7 @@
       }
     },
     {
-      "@id": "341+Budapest",
+      "@id": "60.19-E",
       "type": "Feature",
       "properties": {
         "title": "Stela of rwD-aHAw, Naga ed-Der [341]",
@@ -3107,7 +3107,7 @@
       }
     },
     {
-      "@id": "439+Budapest",
+      "@id": "78.3E",
       "type": "Feature",
       "properties": {
         "title": "Tall, elongated stela of xm-jb, probably Abydos [439]",
@@ -3130,7 +3130,7 @@
       }
     },
     {
-      "@id": "333+Cairo",
+      "@id": "JE 20355",
       "type": "Feature",
       "properties": {
         "title": "Stela of nn, Naqada [333]",
@@ -3153,7 +3153,7 @@
       }
     },
     {
-      "@id": "63+Cairo",
+      "@id": "JE 21066 / CG 1633",
       "type": "Feature",
       "properties": {
         "title": "Stela of jn-jt.f, probably Rizeiqat [63]",
@@ -3176,7 +3176,7 @@
       }
     },
     {
-      "@id": "363+Cairo",
+      "@id": "JE 25640 / CG 20510",
       "type": "Feature",
       "properties": {
         "title": "Stela of HpA, Naqada [363]",
@@ -3199,7 +3199,7 @@
       }
     },
     {
-      "@id": "517+Cairo",
+      "@id": "JE 25657 / CG 20501",
       "type": "Feature",
       "properties": {
         "title": "Stela of SmAj, Naqada [517]",
@@ -3222,7 +3222,7 @@
       }
     },
     {
-      "@id": "638+Cairo",
+      "@id": "JE 28807 bis / CG 1646",
       "type": "Feature",
       "properties": {
         "title": "Stela of unknown, Nag el-Mesheikh [638]",
@@ -3245,7 +3245,7 @@
       }
     },
     {
-      "@id": "130+Cairo",
+      "@id": "JE 28808 / CG 1598",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of jmpy, Nag el-Mesheikh [130]",
@@ -3268,7 +3268,7 @@
       }
     },
     {
-      "@id": "630+Cairo",
+      "@id": "JE 28809 / CG 1595",
       "type": "Feature",
       "properties": {
         "title": "Stela of unknown, Nag el-Mesheikh [630]",
@@ -3291,7 +3291,7 @@
       }
     },
     {
-      "@id": "174+Cairo",
+      "@id": "JE 29247 / CG 20001",
       "type": "Feature",
       "properties": {
         "title": "Stela of jtj, probably Rizeiqat [174]",
@@ -3314,7 +3314,7 @@
       }
     },
     {
-      "@id": "251+Cairo",
+      "@id": "JE 32136 / CG 1662",
       "type": "Feature",
       "properties": {
         "title": "False door of mnj, Dendera [251]*",
@@ -3337,7 +3337,7 @@
       }
     },
     {
-      "@id": "357+Cairo",
+      "@id": "JE 32138 / CG 20543",
       "type": "Feature",
       "properties": {
         "title": "Stela of rdj-Xnmw, Dendera [357]",
@@ -3360,7 +3360,7 @@
       }
     },
     {
-      "@id": "249+Cairo",
+      "@id": "JE 32142 / CG 1660",
       "type": "Feature",
       "properties": {
         "title": "Stela of mnj, Dendera [249]",
@@ -3383,7 +3383,7 @@
       }
     },
     {
-      "@id": "193+Cairo",
+      "@id": "JE 32144 / CG 1657",
       "type": "Feature",
       "properties": {
         "title": "Stela of jdw II, Dendera [193]",
@@ -3406,7 +3406,7 @@
       }
     },
     {
-      "@id": "25+Cairo",
+      "@id": "JE 32146 / CG 1659",
       "type": "Feature",
       "properties": {
         "title": "Stela of nfr-sSm-ppy snnj, Dendera [25]",
@@ -3429,7 +3429,7 @@
       }
     },
     {
-      "@id": "71+Cairo",
+      "@id": "JE 36346 / CG 20796",
       "type": "Feature",
       "properties": {
         "title": "Stela fragments of Hnnw, Dra Abu el-Naga [71]",
@@ -3452,7 +3452,7 @@
       }
     },
     {
-      "@id": "627+Cairo",
+      "@id": "JE 36423",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of unknown, Thebes [627]",
@@ -3475,7 +3475,7 @@
       }
     },
     {
-      "@id": "197+Cairo",
+      "@id": "JE 38551",
       "type": "Feature",
       "properties": {
         "title": "False door of ab-jHw, Dendera [197]",
@@ -3498,7 +3498,7 @@
       }
     },
     {
-      "@id": "37+Cairo",
+      "@id": "JE 38552 / CG 57211",
       "type": "Feature",
       "properties": {
         "title": "False door of jnp-m-HAt, Saqqara [37]",
@@ -3521,7 +3521,7 @@
       }
     },
     {
-      "@id": "457+Cairo",
+      "@id": "JE 38553 / CG 57202",
       "type": "Feature",
       "properties": {
         "title": "False door of sAt-xmt, Saqqara [457]  ",
@@ -3544,7 +3544,7 @@
       }
     },
     {
-      "@id": "417+Cairo",
+      "@id": "JE 38554",
       "type": "Feature",
       "properties": {
         "title": "False door of Htp-mnt, Saqqara [417]",
@@ -3567,7 +3567,7 @@
       }
     },
     {
-      "@id": "573+Cairo",
+      "@id": "JE 38555 / CG 57206",
       "type": "Feature",
       "properties": {
         "title": "False door of Tst, Saqqara [573]",
@@ -3590,7 +3590,7 @@
       }
     },
     {
-      "@id": "36+Cairo",
+      "@id": "JE 38557 / CG 57212",
       "type": "Feature",
       "properties": {
         "title": "False door of jpj, Saqqara [36]",
@@ -3613,7 +3613,7 @@
       }
     },
     {
-      "@id": "429+Cairo",
+      "@id": "JE 38558 / CG 57210",
       "type": "Feature",
       "properties": {
         "title": "False door of xwy, Saqqara [429]",
@@ -3636,7 +3636,7 @@
       }
     },
     {
-      "@id": "39+Cairo",
+      "@id": "JE 39102",
       "type": "Feature",
       "properties": {
         "title": "False door of Htp, Saqqara [39]",
@@ -3659,7 +3659,7 @@
       }
     },
     {
-      "@id": "76+Cairo",
+      "@id": "JE 41437",
       "type": "Feature",
       "properties": {
         "title": "Stela of DArj, Dra Abu el-Naga [76]",
@@ -3682,7 +3682,7 @@
       }
     },
     {
-      "@id": "+Cairo",
+      "@id": "JE 43370 – JE 43371",
       "type": "Feature",
       "properties": {
         "title": "False door of qAr, Edfu",
@@ -3705,7 +3705,7 @@
       }
     },
     {
-      "@id": "452+Cairo",
+      "@id": "JE 43754",
       "type": "Feature",
       "properties": {
         "title": "Stela of sAbj, Nag el-Mesheikh [452]",
@@ -3728,7 +3728,7 @@
       }
     },
     {
-      "@id": "516+Cairo",
+      "@id": "JE 43755",
       "type": "Feature",
       "properties": {
         "title": "Stela of SmA, Nag el-Mesheikh [516]",
@@ -3751,7 +3751,7 @@
       }
     },
     {
-      "@id": "329+Cairo",
+      "@id": "JE 43756 / CG 20808",
       "type": "Feature",
       "properties": {
         "title": "Stela of nfr-Tb-Aw, Naga ed-Der [329]",
@@ -3774,7 +3774,7 @@
       }
     },
     {
-      "@id": "227+Cairo",
+      "@id": "JE 44301",
       "type": "Feature",
       "properties": {
         "title": "Stela of bbj, Dendera [227]",
@@ -3797,7 +3797,7 @@
       }
     },
     {
-      "@id": "369+Cairo",
+      "@id": "JE 44302",
       "type": "Feature",
       "properties": {
         "title": "Stela of Hmt, Dendera [369]",
@@ -3820,7 +3820,7 @@
       }
     },
     {
-      "@id": "595+Cairo",
+      "@id": "JE 44303",
       "type": "Feature",
       "properties": {
         "title": "Stela of unknown, Dendera [595]",
@@ -3843,7 +3843,7 @@
       }
     },
     {
-      "@id": "306+Cairo",
+      "@id": "JE 44304",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of nbt.fj, Dendera [306]",
@@ -3866,7 +3866,7 @@
       }
     },
     {
-      "@id": "43+Cairo",
+      "@id": "JE 45057",
       "type": "Feature",
       "properties": {
         "title": "Stela of Xty, Asasif [43]",
@@ -3889,7 +3889,7 @@
       }
     },
     {
-      "@id": "40+Cairo",
+      "@id": "JE 45058",
       "type": "Feature",
       "properties": {
         "title": "Stela of Xty, Asasif [40]",
@@ -3912,7 +3912,7 @@
       }
     },
     {
-      "@id": "628+Cairo",
+      "@id": "JE 45603",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of unknown, Dendera [628]",
@@ -3935,7 +3935,7 @@
       }
     },
     {
-      "@id": "384+Cairo",
+      "@id": "JE 45968",
       "type": "Feature",
       "properties": {
         "title": "Stela of Hnw, Naga ed-Der [384]",
@@ -3958,7 +3958,7 @@
       }
     },
     {
-      "@id": "604+Cairo",
+      "@id": "JE 45969",
       "type": "Feature",
       "properties": {
         "title": "Stela of unknown, Naga ed-Der [604]",
@@ -3981,7 +3981,7 @@
       }
     },
     {
-      "@id": "264+Cairo",
+      "@id": "JE 45970",
       "type": "Feature",
       "properties": {
         "title": "Stela of mryt, Naga ed-Der [264]",
@@ -4004,7 +4004,7 @@
       }
     },
     {
-      "@id": "260+Cairo",
+      "@id": "JE 45971",
       "type": "Feature",
       "properties": {
         "title": "Stela of mry, Naga ed-Der [260]",
@@ -4027,7 +4027,7 @@
       }
     },
     {
-      "@id": "178+Cairo",
+      "@id": "JE 46049",
       "type": "Feature",
       "properties": {
         "title": "Stela of jttj, Dendera [178]",
@@ -4050,7 +4050,7 @@
       }
     },
     {
-      "@id": "279+Cairo",
+      "@id": "JE 46050",
       "type": "Feature",
       "properties": {
         "title": "Stela of mrrj, Dendera [279]",
@@ -4073,7 +4073,7 @@
       }
     },
     {
-      "@id": "158+Cairo",
+      "@id": "JE 48030",
       "type": "Feature",
       "properties": {
         "title": "Stela of jrj-ns, probably Naga ed-Der [158]",
@@ -4096,7 +4096,7 @@
       }
     },
     {
-      "@id": "114+Cairo",
+      "@id": "JE 48031",
       "type": "Feature",
       "properties": {
         "title": "Stela of jpj, Naga ed-Der [114]",
@@ -4119,7 +4119,7 @@
       }
     },
     {
-      "@id": "438+Cairo",
+      "@id": "JE 48032",
       "type": "Feature",
       "properties": {
         "title": "Stela of xw.n.s, Naga ed-Der [438]",
@@ -4142,7 +4142,7 @@
       }
     },
     {
-      "@id": "511+Cairo",
+      "@id": "JE 48870",
       "type": "Feature",
       "properties": {
         "title": "Stela of sTA, Sheikh Farag [511]",
@@ -4165,7 +4165,7 @@
       }
     },
     {
-      "@id": "379+Cairo",
+      "@id": "JE 48871",
       "type": "Feature",
       "properties": {
         "title": "Stela of Hny, Sheikh Farag [379]",
@@ -4188,7 +4188,7 @@
       }
     },
     {
-      "@id": "536+Cairo",
+      "@id": "JE 49693",
       "type": "Feature",
       "properties": {
         "title": "False door of qdns, Giza [536]",
@@ -4211,7 +4211,7 @@
       }
     },
     {
-      "@id": "+Cairo",
+      "@id": "JE 49804",
       "type": "Feature",
       "properties": {
         "title": "Stèle maison of jwjw, South Saqqara",
@@ -4234,7 +4234,7 @@
       }
     },
     {
-      "@id": "28+Cairo",
+      "@id": "JE 49805",
       "type": "Feature",
       "properties": {
         "title": "Stèle maison of xw-bAw, South Saqqara [28]",
@@ -4257,7 +4257,7 @@
       }
     },
     {
-      "@id": "+Cairo",
+      "@id": "JE 51297",
       "type": "Feature",
       "properties": {
         "title": "False door of snb, Giza",
@@ -4280,7 +4280,7 @@
       }
     },
     {
-      "@id": "145+Cairo",
+      "@id": "JE 55605",
       "type": "Feature",
       "properties": {
         "title": "Stela of jn-Htp-nxt, Auled el-Sheikh [145]",
@@ -4303,7 +4303,7 @@
       }
     },
     {
-      "@id": "270+Cairo",
+      "@id": "JE 55606",
       "type": "Feature",
       "properties": {
         "title": "Hybrid false door stela of mrwj, Nag el-Mesheikh [270]",
@@ -4326,7 +4326,7 @@
       }
     },
     {
-      "@id": "427+Cairo",
+      "@id": "JE 55607",
       "type": "Feature",
       "properties": {
         "title": "Stela of xwj, Naga ed-Der [427]",
@@ -4349,7 +4349,7 @@
       }
     },
     {
-      "@id": "263A+Cairo",
+      "@id": "JE 55618",
       "type": "Feature",
       "properties": {
         "title": "False door of mry and Htp, Saqqara [263A]",
@@ -4372,7 +4372,7 @@
       }
     },
     {
-      "@id": "296+Cairo",
+      "@id": "JE 55618",
       "type": "Feature",
       "properties": {
         "title": "False door of ny-anx-Hr, Saqqara [296]",
@@ -4395,7 +4395,7 @@
       }
     },
     {
-      "@id": "503+Cairo",
+      "@id": "JE 55618",
       "type": "Feature",
       "properties": {
         "title": "False door of sk-wsxt, Saqqara [503]",
@@ -4418,7 +4418,7 @@
       }
     },
     {
-      "@id": "504+Cairo",
+      "@id": "JE 55618",
       "type": "Feature",
       "properties": {
         "title": "False door of sk-wsxt-aA, Saqqara [504]",
@@ -4441,7 +4441,7 @@
       }
     },
     {
-      "@id": "505+Cairo",
+      "@id": "JE 55618",
       "type": "Feature",
       "properties": {
         "title": "False door of sk-wsxt-Hry-jb, Saqqara [505]",
@@ -4464,7 +4464,7 @@
       }
     },
     {
-      "@id": "339+Cairo",
+      "@id": "JE 57186",
       "type": "Feature",
       "properties": {
         "title": "False door of ns-wsrtj, Memphite necropolis [339]",
@@ -4487,7 +4487,7 @@
       }
     },
     {
-      "@id": "48+Cairo",
+      "@id": "JE 57201",
       "type": "Feature",
       "properties": {
         "title": "False door fragment of TAwtj, Khozam [48]",
@@ -4510,7 +4510,7 @@
       }
     },
     {
-      "@id": "453+Cairo",
+      "@id": "JE 59158",
       "type": "Feature",
       "properties": {
         "title": "False door of sAt-y-Tnw, Saqqara [453] ",
@@ -4533,7 +4533,7 @@
       }
     },
     {
-      "@id": "149+Cairo",
+      "@id": "JE 68916",
       "type": "Feature",
       "properties": {
         "title": "Stela of jnj-kA.f, Zawayda [149]",
@@ -4556,7 +4556,7 @@
       }
     },
     {
-      "@id": "612+Cairo",
+      "@id": "JE 88011 / CG 20811",
       "type": "Feature",
       "properties": {
         "title": "Stela of unknown, probably Naqada [612]",
@@ -4579,7 +4579,7 @@
       }
     },
     {
-      "@id": "312+Cairo",
+      "@id": "JE 88876",
       "type": "Feature",
       "properties": {
         "title": "Stela of nbtfy, Dendera [312]  ",
@@ -4602,7 +4602,7 @@
       }
     },
     {
-      "@id": "153+Cairo",
+      "@id": "JE 88889",
       "type": "Feature",
       "properties": {
         "title": "Stela of jnt-kmt, Naga ed-Der [153]",
@@ -4625,7 +4625,7 @@
       }
     },
     {
-      "@id": "220+Cairo",
+      "@id": "JE 89778",
       "type": "Feature",
       "properties": {
         "title": "Stela of b(w)-kmnj, Naga ed-Der [220]",
@@ -4648,7 +4648,7 @@
       }
     },
     {
-      "@id": "554+Cairo",
+      "@id": "JE 91100",
       "type": "Feature",
       "properties": {
         "title": "False door of [Taw], Herakleopolis [554]",
@@ -4671,7 +4671,7 @@
       }
     },
     {
-      "@id": "6+Cairo",
+      "@id": "JE 377371 / CG 57193",
       "type": "Feature",
       "properties": {
         "title": "Stela of anx-n.s-ppy/nnj, Naga ed-Der [6]",
@@ -4694,7 +4694,7 @@
       }
     },
     {
-      "@id": "+Cairo",
+      "@id": "CG 1417",
       "type": "Feature",
       "properties": {
         "title": "False door of Hm-mnw, Saqqara",
@@ -4717,7 +4717,7 @@
       }
     },
     {
-      "@id": "38+Cairo",
+      "@id": "CG 1442",
       "type": "Feature",
       "properties": {
         "title": "False door of wsr, Khozam [38]",
@@ -4740,7 +4740,7 @@
       }
     },
     {
-      "@id": "458+Cairo",
+      "@id": "CG 1446",
       "type": "Feature",
       "properties": {
         "title": "False door of sAt-sn, Memphite necropolis [458]",
@@ -4763,7 +4763,7 @@
       }
     },
     {
-      "@id": "530+Cairo",
+      "@id": "CG 1453",
       "type": "Feature",
       "properties": {
         "title": "False door of Sdj-Abd, Saqqara [530]",
@@ -4786,7 +4786,7 @@
       }
     },
     {
-      "@id": "256+Cairo",
+      "@id": "CG 1459",
       "type": "Feature",
       "properties": {
         "title": "Hybrid false door stela of mr-bbj, unknown [256]",
@@ -4809,7 +4809,7 @@
       }
     },
     {
-      "@id": "160+Cairo",
+      "@id": "CG 1512",
       "type": "Feature",
       "properties": {
         "title": "False door of jry, Saqqara [160]",
@@ -4832,7 +4832,7 @@
       }
     },
     {
-      "@id": "23+Cairo",
+      "@id": "CG 1519",
       "type": "Feature",
       "properties": {
         "title": "Tall, elongated stela of nb.t, Abydos [23]",
@@ -4855,7 +4855,7 @@
       }
     },
     {
-      "@id": "4A+Cairo",
+      "@id": "CG 1575",
       "type": "Feature",
       "properties": {
         "title": "Tall, elongated stela of jdj, Abydos [4A]",
@@ -4878,7 +4878,7 @@
       }
     },
     {
-      "@id": "4+Cairo",
+      "@id": "CG 1577",
       "type": "Feature",
       "properties": {
         "title": "Tall, elongated stela of jdj, Abydos [4]",
@@ -4901,7 +4901,7 @@
       }
     },
     {
-      "@id": "427A+Cairo",
+      "@id": "CG 1578",
       "type": "Feature",
       "properties": {
         "title": "Tall, elongated stela of xwj, Abydos [427A]",
@@ -4924,7 +4924,7 @@
       }
     },
     {
-      "@id": "515+Cairo",
+      "@id": "CG 1585",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of Spst-kA.w, Akhmim [515]",
@@ -4947,7 +4947,7 @@
       }
     },
     {
-      "@id": "259+Cairo",
+      "@id": "CG 1592",
       "type": "Feature",
       "properties": {
         "title": "Tall, elongated stela of mry, Abydos [259]",
@@ -4970,7 +4970,7 @@
       }
     },
     {
-      "@id": "325+Cairo",
+      "@id": "CG 1594",
       "type": "Feature",
       "properties": {
         "title": "Hybrid false door stela of nfr-Hb, Abydos [325]",
@@ -4993,7 +4993,7 @@
       }
     },
     {
-      "@id": "165+Cairo",
+      "@id": "CG 1596",
       "type": "Feature",
       "properties": {
         "title": "Stela of jHy, Naqada [165]",
@@ -5016,7 +5016,7 @@
       }
     },
     {
-      "@id": "209+Cairo",
+      "@id": "CG 1600",
       "type": "Feature",
       "properties": {
         "title": "Stela of wHA, Nag el-Mesheikh [209]",
@@ -5039,7 +5039,7 @@
       }
     },
     {
-      "@id": "663+Cairo",
+      "@id": "CG 1601",
       "type": "Feature",
       "properties": {
         "title": "Stela of Sd-jt.f, Nag el-Mesheikh [663]",
@@ -5062,7 +5062,7 @@
       }
     },
     {
-      "@id": "51+Cairo",
+      "@id": "CG 1603",
       "type": "Feature",
       "properties": {
         "title": "Stela of jn-jt.f, Nag el-Mesheikh [51]",
@@ -5085,7 +5085,7 @@
       }
     },
     {
-      "@id": "215+Cairo",
+      "@id": "CG 1606",
       "type": "Feature",
       "properties": {
         "title": "Stela of wDAj, probably Naga ed-Der [215]",
@@ -5108,7 +5108,7 @@
       }
     },
     {
-      "@id": "195+Cairo",
+      "@id": "CG 1607",
       "type": "Feature",
       "properties": {
         "title": "Stela of jdwj, Nag el-Mesheikh [195]",
@@ -5131,7 +5131,7 @@
       }
     },
     {
-      "@id": "199+Cairo",
+      "@id": "CG 1609",
       "type": "Feature",
       "properties": {
         "title": "Stela of ab-jHw, Nag el-Mesheikh [199]",
@@ -5154,7 +5154,7 @@
       }
     },
     {
-      "@id": "443+Cairo",
+      "@id": "CG 1615",
       "type": "Feature",
       "properties": {
         "title": "Tall, elongated stela of xnw, Abydos [443]",
@@ -5177,7 +5177,7 @@
       }
     },
     {
-      "@id": "298+Cairo",
+      "@id": "CG 1617",
       "type": "Feature",
       "properties": {
         "title": "Hybrid false door stela of nw, probably Abydos [298]",
@@ -5200,7 +5200,7 @@
       }
     },
     {
-      "@id": "207+Cairo",
+      "@id": "CG 1619",
       "type": "Feature",
       "properties": {
         "title": "Hybrid false door stela of wnj, probably Abydos [207]",
@@ -5223,7 +5223,7 @@
       }
     },
     {
-      "@id": "62+Cairo",
+      "@id": "CG 1622",
       "type": "Feature",
       "properties": {
         "title": "Stela of jn-jt.f, probably Rizeiqat [62]",
@@ -5246,7 +5246,7 @@
       }
     },
     {
-      "@id": "90+Cairo",
+      "@id": "CG 1625",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of ns-mnTw (?), possibly Rizeiqat [90]",
@@ -5269,7 +5269,7 @@
       }
     },
     {
-      "@id": "568+Cairo",
+      "@id": "CG 1627",
       "type": "Feature",
       "properties": {
         "title": "Stela of Tnj, Nag el-Mesheikh [568]",
@@ -5292,7 +5292,7 @@
       }
     },
     {
-      "@id": "261+Cairo",
+      "@id": "CG 1629",
       "type": "Feature",
       "properties": {
         "title": "Stela of mry, Thinite nome [261]",
@@ -5315,7 +5315,7 @@
       }
     },
     {
-      "@id": "484+Cairo",
+      "@id": "CG 1632",
       "type": "Feature",
       "properties": {
         "title": "Stela of snj, Akhmim [484]",
@@ -5338,7 +5338,7 @@
       }
     },
     {
-      "@id": "107+Cairo",
+      "@id": "CG 1638",
       "type": "Feature",
       "properties": {
         "title": "Stela of jwt, Naqada [107]",
@@ -5361,7 +5361,7 @@
       }
     },
     {
-      "@id": "502+Cairo",
+      "@id": "CG 1639",
       "type": "Feature",
       "properties": {
         "title": "Hybrid false door stela of ssj, unknown [502]",
@@ -5384,7 +5384,7 @@
       }
     },
     {
-      "@id": "263+Cairo",
+      "@id": "CG 1644",
       "type": "Feature",
       "properties": {
         "title": "Stela of mry, Nag el-Mesheikh [263]",
@@ -5407,7 +5407,7 @@
       }
     },
     {
-      "@id": "343+Cairo",
+      "@id": "CG 1648",
       "type": "Feature",
       "properties": {
         "title": "Stela of rwD-bAw, probably Nag el-Mesheikh [343]",
@@ -5430,7 +5430,7 @@
       }
     },
     {
-      "@id": "358+Cairo",
+      "@id": "CG 1649",
       "type": "Feature",
       "properties": {
         "title": "Stela of HAsj, Naqada [358]",
@@ -5453,7 +5453,7 @@
       }
     },
     {
-      "@id": "273+Cairo",
+      "@id": "CG 1651",
       "type": "Feature",
       "properties": {
         "title": "Stela of mrr, Gebelein and Rizeiqat region [273]",
@@ -5476,7 +5476,7 @@
       }
     },
     {
-      "@id": "280+Cairo",
+      "@id": "CG 1663 / JE 32143",
       "type": "Feature",
       "properties": {
         "title": "Stela of mrrj, Dendera [280]",
@@ -5499,7 +5499,7 @@
       }
     },
     {
-      "@id": "278+Cairo",
+      "@id": "CG 1664 / JE 32140",
       "type": "Feature",
       "properties": {
         "title": "False door of mrrj, Dendera [278]",
@@ -5522,7 +5522,7 @@
       }
     },
     {
-      "@id": "99+Cairo",
+      "@id": "CG 1707",
       "type": "Feature",
       "properties": {
         "title": "Stela of j(j)-DfA, unknown [99]",
@@ -5545,7 +5545,7 @@
       }
     },
     {
-      "@id": "606+Cairo",
+      "@id": "CG 1708",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of unknown, unknown [606]",
@@ -5568,7 +5568,7 @@
       }
     },
     {
-      "@id": "217+Cairo",
+      "@id": "CG 1731",
       "type": "Feature",
       "properties": {
         "title": "False door of bAk-n-ptH, unknown [217]",
@@ -5591,7 +5591,7 @@
       }
     },
     {
-      "@id": "316+Cairo",
+      "@id": "CG 1759",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of nfrw, Thebes [316]",
@@ -5614,7 +5614,7 @@
       }
     },
     {
-      "@id": "563+Cairo",
+      "@id": "CG 20004",
       "type": "Feature",
       "properties": {
         "title": "Stela of Tftnn, Dra Abu el-Naga [563]",
@@ -5637,7 +5637,7 @@
       }
     },
     {
-      "@id": "562+Cairo",
+      "@id": "CG 20005",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of Tbw, Dra Abu el-Naga [562]",
@@ -5660,7 +5660,7 @@
       }
     },
     {
-      "@id": "665+Cairo",
+      "@id": "CG 20007",
       "type": "Feature",
       "properties": {
         "title": "Stela of dAgj, Qena [665]",
@@ -5683,7 +5683,7 @@
       }
     },
     {
-      "@id": "65+Cairo",
+      "@id": "CG 20009",
       "type": "Feature",
       "properties": {
         "title": "Hybrid false door stela of jn-jt.f, Dra Abu el-Naga [65]",
@@ -5706,7 +5706,7 @@
       }
     },
     {
-      "@id": "480+Cairo",
+      "@id": "CG 20010 / TR 25.4.22.1",
       "type": "Feature",
       "properties": {
         "title": "Stela of sn, Naqada [480]",
@@ -5729,7 +5729,7 @@
       }
     },
     {
-      "@id": "385+Cairo",
+      "@id": "CG 20011",
       "type": "Feature",
       "properties": {
         "title": "Stela of Hnw, Dra Abu el-Naga [385]",
@@ -5752,7 +5752,7 @@
       }
     },
     {
-      "@id": "338+Cairo",
+      "@id": "CG 20012",
       "type": "Feature",
       "properties": {
         "title": "Stela of nxt-ty, Abydos [338]",
@@ -5775,7 +5775,7 @@
       }
     },
     {
-      "@id": "367+Cairo",
+      "@id": "CG 20106",
       "type": "Feature",
       "properties": {
         "title": "Tall, elongated stela of Hm-wr, Abydos [367]",
@@ -5798,7 +5798,7 @@
       }
     },
     {
-      "@id": "490+Cairo",
+      "@id": "CG 20500",
       "type": "Feature",
       "properties": {
         "title": "Stela of snnj, Naqada [490]",
@@ -5821,7 +5821,7 @@
       }
     },
     {
-      "@id": "97+Cairo",
+      "@id": "CG 20504",
       "type": "Feature",
       "properties": {
         "title": "Stela of AAw, Akhmim [97]",
@@ -5844,7 +5844,7 @@
       }
     },
     {
-      "@id": "582+Cairo",
+      "@id": "CG 20507",
       "type": "Feature",
       "properties": {
         "title": "Stela of ddj and jnnj, unknown [582]",
@@ -5867,7 +5867,7 @@
       }
     },
     {
-      "@id": "575+Cairo",
+      "@id": "CG 20511",
       "type": "Feature",
       "properties": {
         "title": "Stela of dAg, Naqada [575]",
@@ -5890,7 +5890,7 @@
       }
     },
     {
-      "@id": "6+Cairo",
+      "@id": "CG 20512",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of Intef II, El-Tarif [60]",
@@ -5913,7 +5913,7 @@
       }
     },
     {
-      "@id": "58+Cairo",
+      "@id": "CG 20513",
       "type": "Feature",
       "properties": {
         "title": "Stela of ddj, possibly Akhmim [580]",
@@ -5936,7 +5936,7 @@
       }
     },
     {
-      "@id": "656+Cairo",
+      "@id": "CG 20514",
       "type": "Feature",
       "properties": {
         "title": "Stela of rwD-Haw, Abydos [656]",
@@ -5959,7 +5959,7 @@
       }
     },
     {
-      "@id": "299+Cairo",
+      "@id": "CG 20805 / JE 45600",
       "type": "Feature",
       "properties": {
         "title": "Stela of nwj, Dendera [299]",
@@ -5982,7 +5982,7 @@
       }
     },
     {
-      "@id": "+Cairo",
+      "@id": "CG 57189",
       "type": "Feature",
       "properties": {
         "title": "False door of anx-jr.s, Giza",
@@ -6005,7 +6005,7 @@
       }
     },
     {
-      "@id": "115+Cairo",
+      "@id": "E.2008.05.6",
       "type": "Feature",
       "properties": {
         "title": "False door of jpj, Herakleopolis [115]",
@@ -6028,7 +6028,7 @@
       }
     },
     {
-      "@id": "44+Cairo",
+      "@id": "E.2008.05.60",
       "type": "Feature",
       "properties": {
         "title": "False door of [Xty], Herakleopolis [44]",
@@ -6051,7 +6051,7 @@
       }
     },
     {
-      "@id": "256A+Cairo",
+      "@id": "E.2008.05.70",
       "type": "Feature",
       "properties": {
         "title": "False door of [mrt.t], Herakleopolis [256A]",
@@ -6074,7 +6074,7 @@
       }
     },
     {
-      "@id": "646+Cairo",
+      "@id": "TR 3.6.25.1",
       "type": "Feature",
       "properties": {
         "title": "Stela of jn[-t.f]-nxt, Dra Abu el-Naga [646]",
@@ -6097,7 +6097,7 @@
       }
     },
     {
-      "@id": "672+Cairo",
+      "@id": "TR 3.6.25.2",
       "type": "Feature",
       "properties": {
         "title": "Stela of unknown, Dra Abu el-Naga [672]",
@@ -6120,7 +6120,7 @@
       }
     },
     {
-      "@id": "603+Cairo",
+      "@id": "TR 11.5.18.17",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of unknown, Dendera [603]",
@@ -6143,7 +6143,7 @@
       }
     },
     {
-      "@id": "528+Cairo",
+      "@id": "TR 19.11.24.2",
       "type": "Feature",
       "properties": {
         "title": "Stela of Sd-jt.f, Sheikh Farag [528]",
@@ -6166,7 +6166,7 @@
       }
     },
     {
-      "@id": "137+Cairo",
+      "@id": "TR 19.11.24.15 / JE 43757",
       "type": "Feature",
       "properties": {
         "title": "Stela of jn-Hrt-nxt, Nag el-Mesheikh [137]",
@@ -6189,7 +6189,7 @@
       }
     },
     {
-      "@id": "78+Cairo",
+      "@id": "TR 25.10.17.10",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of unknown, Thebes [78]",
@@ -6212,7 +6212,7 @@
       }
     },
     {
-      "@id": "607+Cairo",
+      "@id": "TR 30.10.17.9",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of unknown, unknown [607]",
@@ -6235,7 +6235,7 @@
       }
     },
     {
-      "@id": "473+Cairo",
+      "@id": "10-1/16?",
       "type": "Feature",
       "properties": {
         "title": "False door of sbk-Htp, Memphis [473]",
@@ -6258,7 +6258,7 @@
       }
     },
     {
-      "@id": "186+Cairo",
+      "@id": "Unknown",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of jdj, Naga ed-Der [186]",
@@ -6281,7 +6281,7 @@
       }
     },
     {
-      "@id": "394+Cairo",
+      "@id": "Unknown",
       "type": "Feature",
       "properties": {
         "title": "False door of [Hrj-S.f-nxt], Herakleopolis [394]",
@@ -6304,7 +6304,7 @@
       }
     },
     {
-      "@id": "539+Cairo",
+      "@id": "Unknown",
       "type": "Feature",
       "properties": {
         "title": "False door of kAj-sxm-ra, Naga ed-Der [539]",
@@ -6327,7 +6327,7 @@
       }
     },
     {
-      "@id": "577+Cairo",
+      "@id": "Unknown",
       "type": "Feature",
       "properties": {
         "title": "False door of [dADAy], Herakleopolis [577]",
@@ -6350,7 +6350,7 @@
       }
     },
     {
-      "@id": "414+Cairo",
+      "@id": "TR 29.10.69.6",
       "type": "Feature",
       "properties": {
         "title": "Stela of Htpt, Herakleopolis [414]",
@@ -6373,7 +6373,7 @@
       }
     },
     {
-      "@id": "655+Cairo",
+      "@id": "575",
       "type": "Feature",
       "properties": {
         "title": "Stela of nfr-Tntwt/Tbw, Naga ed-Der [655]",
@@ -6396,7 +6396,7 @@
       }
     },
     {
-      "@id": "365+Cambridge",
+      "@id": "E.6.1909",
       "type": "Feature",
       "properties": {
         "title": "False door of Hmj-ra, Busiris [365]  ",
@@ -6419,7 +6419,7 @@
       }
     },
     {
-      "@id": "240+Cambridge",
+      "@id": "E.SS.76",
       "type": "Feature",
       "properties": {
         "title": "Tall, elongated stela of ptH-Spss, probably Abydos [240]",
@@ -6442,7 +6442,7 @@
       }
     },
     {
-      "@id": "337+Bakeswell",
+      "@id": "Unknown",
       "type": "Feature",
       "properties": {
         "title": "Hybrid false door stela of nxty-jqr, Abydos [337]",
@@ -6465,7 +6465,7 @@
       }
     },
     {
-      "@id": "455+Chicago",
+      "@id": "A.31285",
       "type": "Feature",
       "properties": {
         "title": "False door of sAt-jmpy-jqr, Unknown [455]",
@@ -6488,7 +6488,7 @@
       }
     },
     {
-      "@id": "42+Chicago",
+      "@id": "A.31286",
       "type": "Feature",
       "properties": {
         "title": "False door of Xty, Unknown [42]",
@@ -6511,7 +6511,7 @@
       }
     },
     {
-      "@id": "53+Chicago",
+      "@id": "A.31694",
       "type": "Feature",
       "properties": {
         "title": "False door of jn-jt.f, Unknown [53]",
@@ -6534,7 +6534,7 @@
       }
     },
     {
-      "@id": "32+Chicago",
+      "@id": "5027",
       "type": "Feature",
       "properties": {
         "title": "Stela of snfr-sSm-ppy snnj, Dendera [32]",
@@ -6557,7 +6557,7 @@
       }
     },
     {
-      "@id": "9+Chicago",
+      "@id": "E 10490",
       "type": "Feature",
       "properties": {
         "title": "Stela of bnsj, Abydos [9]",
@@ -6580,7 +6580,7 @@
       }
     },
     {
-      "@id": "447+Chicago",
+      "@id": "E 12105",
       "type": "Feature",
       "properties": {
         "title": "Stela of xnma, Naqada [447]",
@@ -6603,7 +6603,7 @@
       }
     },
     {
-      "@id": "344+Chicago",
+      "@id": "E 16951",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of rwD-m-qbH, Naga ed-Der [344]",
@@ -6626,7 +6626,7 @@
       }
     },
     {
-      "@id": "171+Chicago",
+      "@id": "E 16952",
       "type": "Feature",
       "properties": {
         "title": "Hybrid false door stela of jsr, Girga district [171]",
@@ -6649,7 +6649,7 @@
       }
     },
     {
-      "@id": "479+Chicago",
+      "@id": "E 16953",
       "type": "Feature",
       "properties": {
         "title": "Hybrid false door stela of smH, Girga district [479]",
@@ -6672,7 +6672,7 @@
       }
     },
     {
-      "@id": "485+Chicago",
+      "@id": "E 16954",
       "type": "Feature",
       "properties": {
         "title": "Stela of snj, Girga district [485]",
@@ -6695,7 +6695,7 @@
       }
     },
     {
-      "@id": "541+Chicago",
+      "@id": "E 16955",
       "type": "Feature",
       "properties": {
         "title": "Stela of kAkA(.j), Girga district [541]",
@@ -6718,7 +6718,7 @@
       }
     },
     {
-      "@id": "208+Chicago",
+      "@id": "E 16956",
       "type": "Feature",
       "properties": {
         "title": "Stela of wHA, Girga district [208]",
@@ -6741,7 +6741,7 @@
       }
     },
     {
-      "@id": "222+Chicago",
+      "@id": "E 16957",
       "type": "Feature",
       "properties": {
         "title": "Hybrid false door stela fragment of bwj-Hrj-jb, Naga ed-Der [222]",
@@ -6764,7 +6764,7 @@
       }
     },
     {
-      "@id": "187+Chicago",
+      "@id": "E 16958",
       "type": "Feature",
       "properties": {
         "title": "Stela of jdy, Girga district [187]",
@@ -6787,7 +6787,7 @@
       }
     },
     {
-      "@id": "196+Chicago",
+      "@id": "E 16959",
       "type": "Feature",
       "properties": {
         "title": "Stela of aAmt, Girga district [196]  ",
@@ -6810,7 +6810,7 @@
       }
     },
     {
-      "@id": "179+Cleveland",
+      "@id": "1914.543",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of jttj-jqr, Thebes? [179]",
@@ -6833,7 +6833,7 @@
       }
     },
     {
-      "@id": "254+Copenhagen",
+      "@id": "8539",
       "type": "Feature",
       "properties": {
         "title": "Stela of mnjwj, probably Naga ed-Der [254]",
@@ -6856,7 +6856,7 @@
       }
     },
     {
-      "@id": "84+Copenhagen",
+      "@id": "AEIN 891",
       "type": "Feature",
       "properties": {
         "title": "Stela of jn-jt.f, Dra Abu el-Naga [84]",
@@ -6879,7 +6879,7 @@
       }
     },
     {
-      "@id": "59+Copenhagen",
+      "@id": "AEIN 963",
       "type": "Feature",
       "properties": {
         "title": "Stela of jn-jt.f, Thebes [59]",
@@ -6902,7 +6902,7 @@
       }
     },
     {
-      "@id": "85+Copenhagen",
+      "@id": "AEIN 964",
       "type": "Feature",
       "properties": {
         "title": "Stela of jn-jt.f, possibly Abydos [85]",
@@ -6925,7 +6925,7 @@
       }
     },
     {
-      "@id": "47+Copenhagen",
+      "@id": "AEIN 1616",
       "type": "Feature",
       "properties": {
         "title": "False door of gmnj-m-HAt, Saqqara [47]",
@@ -6948,7 +6948,7 @@
       }
     },
     {
-      "@id": "472+Copenhagen",
+      "@id": "AEIN 1680",
       "type": "Feature",
       "properties": {
         "title": "Stela of sbk-Htp, unknown [472]",
@@ -6971,7 +6971,7 @@
       }
     },
     {
-      "@id": "466+Dresden",
+      "@id": "Aeg 754",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of sbk-nxt, probably Rizeiqat [466]",
@@ -6994,7 +6994,7 @@
       }
     },
     {
-      "@id": "420+Dublin",
+      "@id": "1892.224",
       "type": "Feature",
       "properties": {
         "title": "Stela of Htp-nbj, probably Naqada [420]",
@@ -7017,7 +7017,7 @@
       }
     },
     {
-      "@id": "101+Dundee",
+      "@id": "1966.223",
       "type": "Feature",
       "properties": {
         "title": "Stela of jy, Naga ed-Der [101]",
@@ -7040,7 +7040,7 @@
       }
     },
     {
-      "@id": "281+Dundee",
+      "@id": "1966.224",
       "type": "Feature",
       "properties": {
         "title": "Stela of mrrj, Dendera [281]",
@@ -7063,7 +7063,7 @@
       }
     },
     {
-      "@id": "+Edinburgh",
+      "@id": "A.1898.382.2",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of mrrj, Dendera",
@@ -7086,7 +7086,7 @@
       }
     },
     {
-      "@id": "+Edinburgh",
+      "@id": "A.1898.382.3",
       "type": "Feature",
       "properties": {
         "title": "Stela of bbj, Dendera",
@@ -7109,7 +7109,7 @@
       }
     },
     {
-      "@id": "+Edinburgh",
+      "@id": "A.1910.76",
       "type": "Feature",
       "properties": {
         "title": "Stela of wsr, Akhmim",
@@ -7132,7 +7132,7 @@
       }
     },
     {
-      "@id": "277+Edinburgh",
+      "@id": "1898.382.1",
       "type": "Feature",
       "properties": {
         "title": "Stela of mrrj, Dendera [277]",
@@ -7155,7 +7155,7 @@
       }
     },
     {
-      "@id": "409+Edinburgh",
+      "@id": "1910.95",
       "type": "Feature",
       "properties": {
         "title": "Hybrid false door stela of Htpj, Dendera [409]",
@@ -7178,7 +7178,7 @@
       }
     },
     {
-      "@id": "489+Edinburgh",
+      "@id": "1910.96",
       "type": "Feature",
       "properties": {
         "title": "Hybrid false door stela of snnj, Dendera [489]",
@@ -7201,7 +7201,7 @@
       }
     },
     {
-      "@id": "546+Florence",
+      "@id": "6366",
       "type": "Feature",
       "properties": {
         "title": "Stela of grHt, Naqada [546]",
@@ -7224,7 +7224,7 @@
       }
     },
     {
-      "@id": "235+Florence",
+      "@id": "6367",
       "type": "Feature",
       "properties": {
         "title": "Stela of ptH-jw, Naqada [235]",
@@ -7247,7 +7247,7 @@
       }
     },
     {
-      "@id": "184+Florence",
+      "@id": "6368",
       "type": "Feature",
       "properties": {
         "title": "Stela of jqr, Naqada [184]",
@@ -7270,7 +7270,7 @@
       }
     },
     {
-      "@id": "412+Florence",
+      "@id": "6374",
       "type": "Feature",
       "properties": {
         "title": "Stela of Htpw, Naqada [412]",
@@ -7293,7 +7293,7 @@
       }
     },
     {
-      "@id": "410+Florence",
+      "@id": "6375",
       "type": "Feature",
       "properties": {
         "title": "Stela of Htpj, Naqada [410]",
@@ -7316,7 +7316,7 @@
       }
     },
     {
-      "@id": "368+Florence",
+      "@id": "6380",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of Hmgw, Dra Abu el-Naga [368]",
@@ -7339,7 +7339,7 @@
       }
     },
     {
-      "@id": "599+Florence",
+      "@id": "6385",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of unknown and wife snt, Naqada [599]",
@@ -7362,7 +7362,7 @@
       }
     },
     {
-      "@id": "232+Florence",
+      "@id": "7585",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of pAaw, Qena [232]",
@@ -7385,7 +7385,7 @@
       }
     },
     {
-      "@id": "433+Florence",
+      "@id": "7588",
       "type": "Feature",
       "properties": {
         "title": "Stela of xwwj, probably Rizeiqat [433]",
@@ -7408,7 +7408,7 @@
       }
     },
     {
-      "@id": "58+Florence",
+      "@id": "7595",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of jn-jt.f, Dra Abu el-Naga [58]*",
@@ -7431,7 +7431,7 @@
       }
     },
     {
-      "@id": "182+Jacksonville",
+      "@id": "AP.1989.1.1",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of jkw, Naga ed-Der [182]",
@@ -7454,7 +7454,7 @@
       }
     },
     {
-      "@id": "330+Geneva",
+      "@id": "EG-359",
       "type": "Feature",
       "properties": {
         "title": "Stela of nfr-Tb-Aw, Naga ed-Der [330]",
@@ -7477,7 +7477,7 @@
       }
     },
     {
-      "@id": "588+Geneva",
+      "@id": "15197",
       "type": "Feature",
       "properties": {
         "title": "Stela of Dfj, Thebes [588]",
@@ -7500,7 +7500,7 @@
       }
     },
     {
-      "@id": "347+Geneva",
+      "@id": "15198",
       "type": "Feature",
       "properties": {
         "title": "Stela of rwDtj, unknown [347]",
@@ -7523,7 +7523,7 @@
       }
     },
     {
-      "@id": "258+Glasgow",
+      "@id": "1898.209.d",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of mrj-ptH, Dendera [258]",
@@ -7546,7 +7546,7 @@
       }
     },
     {
-      "@id": "194+Glasgow",
+      "@id": "1913.100P",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of jdw II, Dendera [194]",
@@ -7569,7 +7569,7 @@
       }
     },
     {
-      "@id": "454+Hamburg",
+      "@id": "C. 3710",
       "type": "Feature",
       "properties": {
         "title": "False door of sAt-jmpy, Abusir [454]",
@@ -7592,7 +7592,7 @@
       }
     },
     {
-      "@id": "230+Hamburg",
+      "@id": "C. 4056",
       "type": "Feature",
       "properties": {
         "title": "Stela of bnnt, unknown [230]",
@@ -7615,7 +7615,7 @@
       }
     },
     {
-      "@id": "523+Hannover",
+      "@id": "1971.1",
       "type": "Feature",
       "properties": {
         "title": "Stela of Sn-jt.f, Thinite nome [523]",
@@ -7638,7 +7638,7 @@
       }
     },
     {
-      "@id": "548+Harvard",
+      "@id": "2354",
       "type": "Feature",
       "properties": {
         "title": "Stela of tfw-r-nHH, Girga [548]",
@@ -7661,7 +7661,7 @@
       }
     },
     {
-      "@id": "471+Heidelberg",
+      "@id": "29",
       "type": "Feature",
       "properties": {
         "title": "Stela of sbk-Htp, unknown [471]",
@@ -7684,7 +7684,7 @@
       }
     },
     {
-      "@id": "464+Heidelberg",
+      "@id": "1018",
       "type": "Feature",
       "properties": {
         "title": "Tall, elongated stela of sbk-m-HAt, Abydos? [464]",
@@ -7707,7 +7707,7 @@
       }
     },
     {
-      "@id": "216+Hildesheim",
+      "@id": "1875",
       "type": "Feature",
       "properties": {
         "title": "Stela of bAw(j), El-Hawawish [216]",
@@ -7730,7 +7730,7 @@
       }
     },
     {
-      "@id": "526+Hildesheim",
+      "@id": "1884",
       "type": "Feature",
       "properties": {
         "title": "Stela of Sd-jt.f, Naga ed-Der [526]",
@@ -7753,7 +7753,7 @@
       }
     },
     {
-      "@id": "166+Hildesheim",
+      "@id": "3046",
       "type": "Feature",
       "properties": {
         "title": "False door of jHw, Giza [166]",
@@ -7776,7 +7776,7 @@
       }
     },
     {
-      "@id": "589+Hildesheim",
+      "@id": "4590",
       "type": "Feature",
       "properties": {
         "title": "Stela of Dmj, probably Rizeiqat [589]",
@@ -7799,7 +7799,7 @@
       }
     },
     {
-      "@id": "105+Hurghada",
+      "@id": "CG 1576",
       "type": "Feature",
       "properties": {
         "title": "Hybrid false door stela of jww, Abydos [105]",
@@ -7822,7 +7822,7 @@
       }
     },
     {
-      "@id": "164+Hurghada",
+      "@id": "CG 1613",
       "type": "Feature",
       "properties": {
         "title": "Tall, elongated stela of jrt, probably Abydos [164]",
@@ -7845,7 +7845,7 @@
       }
     },
     {
-      "@id": "450+Hurghada",
+      "@id": "CG 1618",
       "type": "Feature",
       "properties": {
         "title": "Tall, elongated stela of sA-smn (?), probably Abydos [450]",
@@ -7868,7 +7868,7 @@
       }
     },
     {
-      "@id": "110+Hurghada",
+      "@id": "JE 28806-bis / CG 1642",
       "type": "Feature",
       "properties": {
         "title": "Stela of jbj-jqr, Nag el-Mesheikh [110]",
@@ -7891,7 +7891,7 @@
       }
     },
     {
-      "@id": "611+Karanis",
+      "@id": "Unknown",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of unknown and wife qdtj, Naga ed-Der [611]",
@@ -7914,7 +7914,7 @@
       }
     },
     {
-      "@id": "391+Karlsruhe",
+      "@id": "H.411",
       "type": "Feature",
       "properties": {
         "title": "Stela of Hntj, Zawayda [391]",
@@ -7937,7 +7937,7 @@
       }
     },
     {
-      "@id": "272+Krakow",
+      "@id": "MNK-XI-999",
       "type": "Feature",
       "properties": {
         "title": "Stela of mrr, probably Rizeiqat [272]",
@@ -7960,7 +7960,7 @@
       }
     },
     {
-      "@id": "346+Krakow",
+      "@id": "MAK/AS/1438",
       "type": "Feature",
       "properties": {
         "title": "Stela of rwD-m-qbH, probably Naga ed-Der [346]",
@@ -7983,7 +7983,7 @@
       }
     },
     {
-      "@id": "487+Krakow",
+      "@id": "MAK/AS/1439",
       "type": "Feature",
       "properties": {
         "title": "Stela of snb, Gebelein–Rizeiqat region [487]",
@@ -8006,7 +8006,7 @@
       }
     },
     {
-      "@id": "390+Leiden",
+      "@id": "Am 101-a",
       "type": "Feature",
       "properties": {
         "title": "Stela of Hnnw-jqr, probably Thebes [390]",
@@ -8029,7 +8029,7 @@
       }
     },
     {
-      "@id": "462+Leiden",
+      "@id": "F 1902/7.1",
       "type": "Feature",
       "properties": {
         "title": "Stela of sbk-aA, Naga ed-Der [462]",
@@ -8052,7 +8052,7 @@
       }
     },
     {
-      "@id": "19+Leiden",
+      "@id": "F 1938/1.4",
       "type": "Feature",
       "properties": {
         "title": "Stela of mr-anx.f, Akhmim [19]",
@@ -8075,7 +8075,7 @@
       }
     },
     {
-      "@id": "147+Leiden",
+      "@id": "F 1938/1.6",
       "type": "Feature",
       "properties": {
         "title": "Stela of jnj-jqr, probably Rizeiqat [147]",
@@ -8098,7 +8098,7 @@
       }
     },
     {
-      "@id": "120+Leiden",
+      "@id": "F 1936/2.6",
       "type": "Feature",
       "properties": {
         "title": "False door fragments of jpj-anxw, Saqqara [120]",
@@ -8121,7 +8121,7 @@
       }
     },
     {
-      "@id": "386+Leiden",
+      "@id": "F 1939/2.50",
       "type": "Feature",
       "properties": {
         "title": "Hybrid false door stela of Hnwn, unknown [386]",
@@ -8144,7 +8144,7 @@
       }
     },
     {
-      "@id": "608+Leiden",
+      "@id": "F 1947/9.1",
       "type": "Feature",
       "properties": {
         "title": "Stela of a Nubian mercenary, probably from Rizeiqat [608]",
@@ -8167,7 +8167,7 @@
       }
     },
     {
-      "@id": "181+Leiden",
+      "@id": "F 1969/2.1",
       "type": "Feature",
       "properties": {
         "title": "Stela of jTAj, Naga ed-Der [181]",
@@ -8190,7 +8190,7 @@
       }
     },
     {
-      "@id": "241+Leiden",
+      "@id": "F 1970/5.1",
       "type": "Feature",
       "properties": {
         "title": "False door of ffj, Saqqara [241]",
@@ -8213,7 +8213,7 @@
       }
     },
     {
-      "@id": "201+Leiden",
+      "@id": "F 1970/5.2",
       "type": "Feature",
       "properties": {
         "title": "False door of anx-snj, Saqqara [201]",
@@ -8236,7 +8236,7 @@
       }
     },
     {
-      "@id": "315+Liverpool",
+      "@id": "E.87",
       "type": "Feature",
       "properties": {
         "title": "Stela of nfrw, Naqada [315]",
@@ -8259,7 +8259,7 @@
       }
     },
     {
-      "@id": "321+Liverpool",
+      "@id": "E.88",
       "type": "Feature",
       "properties": {
         "title": "Stela of nfr-mSty, Naqada [321]",
@@ -8282,7 +8282,7 @@
       }
     },
     {
-      "@id": "481+Liverpool",
+      "@id": "55.82.111",
       "type": "Feature",
       "properties": {
         "title": "Hybrid false door stela fragment of sn-wrt.f, Naqada [481]",
@@ -8305,7 +8305,7 @@
       }
     },
     {
-      "@id": "437+London",
+      "@id": "EA 128",
       "type": "Feature",
       "properties": {
         "title": "Tall, elongated stela of xw-bAw, Abydos [437]",
@@ -8328,7 +8328,7 @@
       }
     },
     {
-      "@id": "342+London",
+      "@id": "EA 159",
       "type": "Feature",
       "properties": {
         "title": "Stela of rwD-aHAw, Abydos [342]",
@@ -8351,7 +8351,7 @@
       }
     },
     {
-      "@id": "308+London",
+      "@id": "EA 201",
       "type": "Feature",
       "properties": {
         "title": "False door of nbbj, Abydos [308]",
@@ -8374,7 +8374,7 @@
       }
     },
     {
-      "@id": "32A+London",
+      "@id": "EA 212",
       "type": "Feature",
       "properties": {
         "title": "False door of SnAy, probably Saqqara [32A]",
@@ -8397,7 +8397,7 @@
       }
     },
     {
-      "@id": "75+London",
+      "@id": "EA 614",
       "type": "Feature",
       "properties": {
         "title": "Stela of TTj, Dra Abu el-Naga [75]",
@@ -8420,7 +8420,7 @@
       }
     },
     {
-      "@id": "571+London",
+      "@id": "EA 647",
       "type": "Feature",
       "properties": {
         "title": "Stela of TnjA rpj, probably Thebes [571]*",
@@ -8443,7 +8443,7 @@
       }
     },
     {
-      "@id": "233+London",
+      "@id": "EA 832",
       "type": "Feature",
       "properties": {
         "title": "Tall, elongated stela of psj, Abydos [233]",
@@ -8466,7 +8466,7 @@
       }
     },
     {
-      "@id": "188+London",
+      "@id": "EA 1059",
       "type": "Feature",
       "properties": {
         "title": "Stela of jdw, Thinite nome [188]",
@@ -8489,7 +8489,7 @@
       }
     },
     {
-      "@id": "94+London",
+      "@id": "EA 1164",
       "type": "Feature",
       "properties": {
         "title": "Stela of jn-jt.f, Dra Abu el-Naga [94]",
@@ -8512,7 +8512,7 @@
       }
     },
     {
-      "@id": "+London",
+      "@id": "EA 1191",
       "type": "Feature",
       "properties": {
         "title": "False door of jdw/mrj, Saqqara",
@@ -8535,7 +8535,7 @@
       }
     },
     {
-      "@id": "57+London",
+      "@id": "EA 1203",
       "type": "Feature",
       "properties": {
         "title": "Stela of jn-jt.f, Thebes [57]",
@@ -8558,7 +8558,7 @@
       }
     },
     {
-      "@id": "250+London",
+      "@id": "EA 1262",
       "type": "Feature",
       "properties": {
         "title": "Stela of mnj, Dendera [250]",
@@ -8581,7 +8581,7 @@
       }
     },
     {
-      "@id": "31+London",
+      "@id": "EA 1263",
       "type": "Feature",
       "properties": {
         "title": "Stela of snfr-sSm-ppy snnj, Dendera [31]",
@@ -8604,7 +8604,7 @@
       }
     },
     {
-      "@id": "275+London",
+      "@id": "EA 1264",
       "type": "Feature",
       "properties": {
         "title": "Stela of mrr-jqr, Dendera [275]",
@@ -8627,7 +8627,7 @@
       }
     },
     {
-      "@id": "239+London",
+      "@id": "EA 1287",
       "type": "Feature",
       "properties": {
         "title": "False door of ptH-Htp, Saqqara [239]",
@@ -8650,7 +8650,7 @@
       }
     },
     {
-      "@id": "534+London",
+      "@id": "EA 1341",
       "type": "Feature",
       "properties": {
         "title": "False door of qAr, Saqqara [534]",
@@ -8673,7 +8673,7 @@
       }
     },
     {
-      "@id": "463+London",
+      "@id": "EA 1372",
       "type": "Feature",
       "properties": {
         "title": "Stela of sbk-aA, Mo’alla [463]",
@@ -8696,7 +8696,7 @@
       }
     },
     {
-      "@id": "361+London",
+      "@id": "EA 1486",
       "type": "Feature",
       "properties": {
         "title": "Stela of HAgj, Thinite region [361]",
@@ -8719,7 +8719,7 @@
       }
     },
     {
-      "@id": "288+London",
+      "@id": "EA 1574",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of mHw, Abydos [288]",
@@ -8742,7 +8742,7 @@
       }
     },
     {
-      "@id": "81+London",
+      "@id": "EA 1628",
       "type": "Feature",
       "properties": {
         "title": "Stela of jn-jt.f, Thebes [81]",
@@ -8765,7 +8765,7 @@
       }
     },
     {
-      "@id": "125+London",
+      "@id": "EA 1658",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of jpwt, possibly Naga ed-Der [125]",
@@ -8788,7 +8788,7 @@
       }
     },
     {
-      "@id": "430+London",
+      "@id": "EA 1664",
       "type": "Feature",
       "properties": {
         "title": "Stela of xwy, Thinite nome [430]",
@@ -8811,7 +8811,7 @@
       }
     },
     {
-      "@id": "404+London",
+      "@id": "EA 1671",
       "type": "Feature",
       "properties": {
         "title": "Stela of HqA-jb, probably Rizeiqat [404]",
@@ -8834,7 +8834,7 @@
       }
     },
     {
-      "@id": "469+London",
+      "@id": "EA 1724",
       "type": "Feature",
       "properties": {
         "title": "Stela of (sbk)-Htp, unknown [469]",
@@ -8857,7 +8857,7 @@
       }
     },
     {
-      "@id": "135+London",
+      "@id": "EA 1783",
       "type": "Feature",
       "properties": {
         "title": "Stela of jn-Hrt-nxt, Thinite nome [135]",
@@ -8880,7 +8880,7 @@
       }
     },
     {
-      "@id": "445+London",
+      "@id": "EA 1802",
       "type": "Feature",
       "properties": {
         "title": "Stela of xntj, probably Naqada [445]",
@@ -8903,7 +8903,7 @@
       }
     },
     {
-      "@id": "20+London",
+      "@id": "EA 1818",
       "type": "Feature",
       "properties": {
         "title": "Stela of (ny)-Hb-sd-ppy, Naga ed-Der [20]",
@@ -8926,7 +8926,7 @@
       }
     },
     {
-      "@id": "+London",
+      "@id": "EA 30842",
       "type": "Feature",
       "properties": {
         "title": "Coffin of sn, Deir el-Bersha",
@@ -8949,7 +8949,7 @@
       }
     },
     {
-      "@id": "302+London",
+      "@id": "EA 67134",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of nb-jt.f, unknown [302]",
@@ -8972,7 +8972,7 @@
       }
     },
     {
-      "@id": "402+London",
+      "@id": "UC 14312",
       "type": "Feature",
       "properties": {
         "title": "Tall, elongated stela of Hsw, Abydos [402]",
@@ -8995,7 +8995,7 @@
       }
     },
     {
-      "@id": "542+London",
+      "@id": "UC 14317",
       "type": "Feature",
       "properties": {
         "title": "Stela of gmj-jkr, Unknown [542]",
@@ -9018,7 +9018,7 @@
       }
     },
     {
-      "@id": "292+London",
+      "@id": "UC 14318",
       "type": "Feature",
       "properties": {
         "title": "Stela of nADtj, Naqada [292]",
@@ -9041,7 +9041,7 @@
       }
     },
     {
-      "@id": "601+London",
+      "@id": "UC 14321",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of unknown, Coptos [601]",
@@ -9064,7 +9064,7 @@
       }
     },
     {
-      "@id": "87+London",
+      "@id": "UC 14333",
       "type": "Feature",
       "properties": {
         "title": "Stela of mnTw-Htp, Armant [87]",
@@ -9087,7 +9087,7 @@
       }
     },
     {
-      "@id": "30+Madrid",
+      "@id": "1976/114/a/2071",
       "type": "Feature",
       "properties": {
         "title": "False door of [Xty-wAH], Herakleopolis [30]",
@@ -9110,7 +9110,7 @@
       }
     },
     {
-      "@id": "127+Madrid",
+      "@id": "1976/114/a/2073",
       "type": "Feature",
       "properties": {
         "title": "False door of jm, Herakleopolis [127]",
@@ -9133,7 +9133,7 @@
       }
     },
     {
-      "@id": "324+Madrid",
+      "@id": "1976/114/a/2074",
       "type": "Feature",
       "properties": {
         "title": "False door of [nfr-rt], Herakleopolis [324]",
@@ -9156,7 +9156,7 @@
       }
     },
     {
-      "@id": "499+Madrid",
+      "@id": "Unknown",
       "type": "Feature",
       "properties": {
         "title": "False door of [sntj], Herakleopolis [499]",
@@ -9179,7 +9179,7 @@
       }
     },
     {
-      "@id": "531+Madrid",
+      "@id": "Unknown",
       "type": "Feature",
       "properties": {
         "title": "False door of [Sdy], Herakleopolis [531]",
@@ -9202,7 +9202,7 @@
       }
     },
     {
-      "@id": "643+Manchester",
+      "@id": "2868",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of unknown, Dendera [643]",
@@ -9225,7 +9225,7 @@
       }
     },
     {
-      "@id": "66+Manchester",
+      "@id": "2896 and 2900",
       "type": "Feature",
       "properties": {
         "title": "False door fragments of jn-jt.f.j, Dendera [66]",
@@ -9248,7 +9248,7 @@
       }
     },
     {
-      "@id": "411+Manchester",
+      "@id": "2899",
       "type": "Feature",
       "properties": {
         "title": "False door fragment of Htpj, Dendera [411]",
@@ -9271,7 +9271,7 @@
       }
     },
     {
-      "@id": "644+Manchester",
+      "@id": "2903",
       "type": "Feature",
       "properties": {
         "title": "False door fragment of unknown, Dendera [644]",
@@ -9294,7 +9294,7 @@
       }
     },
     {
-      "@id": "257+Manchester",
+      "@id": "3301",
       "type": "Feature",
       "properties": {
         "title": "Stela of mrj-jkr, Dendera [257]",
@@ -9317,7 +9317,7 @@
       }
     },
     {
-      "@id": "17+Manchester",
+      "@id": "3304",
       "type": "Feature",
       "properties": {
         "title": "Stela of ppy-sSm-nfr, Dendera [17]",
@@ -9340,7 +9340,7 @@
       }
     },
     {
-      "@id": "491+Manchester",
+      "@id": "3307",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of sn-nDsw, Dendera [491]",
@@ -9363,7 +9363,7 @@
       }
     },
     {
-      "@id": "189+Manchester",
+      "@id": "3311",
       "type": "Feature",
       "properties": {
         "title": "Stela of jdw, Dendera [189]",
@@ -9386,7 +9386,7 @@
       }
     },
     {
-      "@id": "15+Manchester",
+      "@id": "3503",
       "type": "Feature",
       "properties": {
         "title": "Stela of ppy-mn-anx, Dendera [15]",
@@ -9409,7 +9409,7 @@
       }
     },
     {
-      "@id": "352+Manchester",
+      "@id": "5052",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of rHwy, Qena [352]",
@@ -9432,7 +9432,7 @@
       }
     },
     {
-      "@id": "355+Melbourne",
+      "@id": "800-D2",
       "type": "Feature",
       "properties": {
         "title": "Stela of rsj, Dendera [355]",
@@ -9455,7 +9455,7 @@
       }
     },
     {
-      "@id": "172+Melbourne",
+      "@id": "D84-1982",
       "type": "Feature",
       "properties": {
         "title": "Stela of jtj, Naga ed-Der [172]",
@@ -9478,7 +9478,7 @@
       }
     },
     {
-      "@id": "70+Moscow",
+      "@id": "I.1.a1137 a,b",
       "type": "Feature",
       "properties": {
         "title": "Stela fragments of Hny, El-Tarif [70] ",
@@ -9501,7 +9501,7 @@
       }
     },
     {
-      "@id": "304+Moscow",
+      "@id": "I.1.a5558 (4062)",
       "type": "Feature",
       "properties": {
         "title": "False door of nb.sn, Saqqara [304]",
@@ -9524,7 +9524,7 @@
       }
     },
     {
-      "@id": "14+Moscow",
+      "@id": "I.1.a5561",
       "type": "Feature",
       "properties": {
         "title": "False door of ppy-m-Hwt-ptH, Memphis [14]",
@@ -9547,7 +9547,7 @@
       }
     },
     {
-      "@id": "246+Moscow",
+      "@id": "I.1.a5567",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of mjn-m-HAt, Akhmim [246]",
@@ -9570,7 +9570,7 @@
       }
     },
     {
-      "@id": "118+Moscow",
+      "@id": "I.1.a5573",
       "type": "Feature",
       "properties": {
         "title": "False door of jpj, Saqqara [118] ",
@@ -9593,7 +9593,7 @@
       }
     },
     {
-      "@id": "72+Moscow",
+      "@id": "I.1.a5603 (4071)",
       "type": "Feature",
       "properties": {
         "title": "Stela of Hnnw, Thebes [72]",
@@ -9616,7 +9616,7 @@
       }
     },
     {
-      "@id": "26+Moscow",
+      "@id": "I.1.5562 (4052)",
       "type": "Feature",
       "properties": {
         "title": "False door fragments of nt-ppy, Saqqara [26]",
@@ -9639,7 +9639,7 @@
       }
     },
     {
-      "@id": "286+Munich",
+      "@id": "G1.108",
       "type": "Feature",
       "properties": {
         "title": "False door fragment of mrt-ttj-y, Saqqara [286]",
@@ -9662,7 +9662,7 @@
       }
     },
     {
-      "@id": "119+Munich",
+      "@id": "G1.110",
       "type": "Feature",
       "properties": {
         "title": "False door fragment of jpj-anxw, Saqqara [119]",
@@ -9685,7 +9685,7 @@
       }
     },
     {
-      "@id": "538+Munich",
+      "@id": "G1.111",
       "type": "Feature",
       "properties": {
         "title": "False door fragment of kA-rnn, Saqqara [538]",
@@ -9708,7 +9708,7 @@
       }
     },
     {
-      "@id": "551+Munich",
+      "@id": "G1.112",
       "type": "Feature",
       "properties": {
         "title": "False door fragment of ttj-Hr-jSt.f, Saqqara [551]",
@@ -9731,7 +9731,7 @@
       }
     },
     {
-      "@id": "465+Munich",
+      "@id": "G1.116",
       "type": "Feature",
       "properties": {
         "title": "False door fragment of sbk-nxt, Saqqara [465]",
@@ -9754,7 +9754,7 @@
       }
     },
     {
-      "@id": "552+Munich",
+      "@id": "G1.118",
       "type": "Feature",
       "properties": {
         "title": "False door fragment of ttj-Hr-mnxt, Saqqara [552]",
@@ -9777,7 +9777,7 @@
       }
     },
     {
-      "@id": "349+Munich",
+      "@id": "Loan object",
       "type": "Feature",
       "properties": {
         "title": "Stela of rHw, probably Rizeiqat [349]",
@@ -9800,7 +9800,7 @@
       }
     },
     {
-      "@id": "483+Neuchâtel",
+      "@id": "426",
       "type": "Feature",
       "properties": {
         "title": "False door of snj, Saqqara [483]",
@@ -9823,7 +9823,7 @@
       }
     },
     {
-      "@id": "317+New York",
+      "@id": "12.183.8",
       "type": "Feature",
       "properties": {
         "title": "False door of nfr-jw, Dendera [317]*",
@@ -9846,7 +9846,7 @@
       }
     },
     {
-      "@id": "61+New York",
+      "@id": "13.182.3",
       "type": "Feature",
       "properties": {
         "title": "Stela of jn-jt.f, Dra Abu el-Naga [61]",
@@ -9869,7 +9869,7 @@
       }
     },
     {
-      "@id": "89+New York",
+      "@id": "14.2.6",
       "type": "Feature",
       "properties": {
         "title": "Stela of mggj, Dra Abu el-Naga [89]",
@@ -9892,7 +9892,7 @@
       }
     },
     {
-      "@id": "86+New York",
+      "@id": "14.2.7",
       "type": "Feature",
       "properties": {
         "title": "Stela of mAatj, El-Tarif [86]",
@@ -9915,7 +9915,7 @@
       }
     },
     {
-      "@id": "477+New York",
+      "@id": "20.2.29",
       "type": "Feature",
       "properties": {
         "title": "Stela of smjn, Thebes [477]*",
@@ -9938,7 +9938,7 @@
       }
     },
     {
-      "@id": "154+New York",
+      "@id": "25.2.3",
       "type": "Feature",
       "properties": {
         "title": "Stela of jndj, probably Naga ed-Der [154]",
@@ -9961,7 +9961,7 @@
       }
     },
     {
-      "@id": "80+New York",
+      "@id": "57.95",
       "type": "Feature",
       "properties": {
         "title": "Stela of jn-jt.f, Thebes [80]",
@@ -9984,7 +9984,7 @@
       }
     },
     {
-      "@id": "49+New York",
+      "@id": "65.107",
       "type": "Feature",
       "properties": {
         "title": "Stela of Dmj, probably Rizeiqat [49]",
@@ -10007,7 +10007,7 @@
       }
     },
     {
-      "@id": "498+New York",
+      "@id": "98.4.1",
       "type": "Feature",
       "properties": {
         "title": "Stela of snt-txj, Dendera [498]",
@@ -10030,7 +10030,7 @@
       }
     },
     {
-      "@id": "558+New York",
+      "@id": "98.4.5",
       "type": "Feature",
       "properties": {
         "title": "Stela of TAwtj rsj, Dendera [558]",
@@ -10053,7 +10053,7 @@
       }
     },
     {
-      "@id": "422+New York",
+      "@id": "98.4.6",
       "type": "Feature",
       "properties": {
         "title": "Stela of Htp-sj, Dendera [422]",
@@ -10076,7 +10076,7 @@
       }
     },
     {
-      "@id": "56+New York",
+      "@id": "98.4.7",
       "type": "Feature",
       "properties": {
         "title": "Stela fragments of jn-jt.f, Dendera [56]",
@@ -10099,7 +10099,7 @@
       }
     },
     {
-      "@id": "228+New York",
+      "@id": "98.4.67",
       "type": "Feature",
       "properties": {
         "title": "Stela fragments of bbj, Dendera [228]",
@@ -10122,7 +10122,7 @@
       }
     },
     {
-      "@id": "593+New York",
+      "@id": "98.4.68",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of [//r//], Dendera [593]",
@@ -10145,7 +10145,7 @@
       }
     },
     {
-      "@id": "91+New York",
+      "@id": "2002.392a-c, 2000.103 a-b, 26.3.217",
       "type": "Feature",
       "properties": {
         "title": "Stela fragments of Hnnw, Deir el-Bahri [91]",
@@ -10168,7 +10168,7 @@
       }
     },
     {
-      "@id": "375+New York",
+      "@id": "635",
       "type": "Feature",
       "properties": {
         "title": "Stela of Hnj, Naga ed-Der [375]",
@@ -10191,7 +10191,7 @@
       }
     },
     {
-      "@id": "248+Toronto",
+      "@id": "971.289",
       "type": "Feature",
       "properties": {
         "title": "Stela of (m)nj, Saqqara [248]",
@@ -10214,7 +10214,7 @@
       }
     },
     {
-      "@id": "382+Oxford",
+      "@id": "1997.58",
       "type": "Feature",
       "properties": {
         "title": "Stela of Hnw, unknown [382]",
@@ -10237,7 +10237,7 @@
       }
     },
     {
-      "@id": "336+Oxford",
+      "@id": "E.3927",
       "type": "Feature",
       "properties": {
         "title": "Stela of nxtw, Dendera [336]",
@@ -10260,7 +10260,7 @@
       }
     },
     {
-      "@id": "383+Oxford",
+      "@id": "E.3928",
       "type": "Feature",
       "properties": {
         "title": "Stela of Hnw, Dendera [383]",
@@ -10283,7 +10283,7 @@
       }
     },
     {
-      "@id": "618+Paris",
+      "@id": "A 10244",
       "type": "Feature",
       "properties": {
         "title": "Tall, elongated stela of unknown, unknown [618]",
@@ -10306,7 +10306,7 @@
       }
     },
     {
-      "@id": "96+Paris",
+      "@id": "C 14",
       "type": "Feature",
       "properties": {
         "title": "Hybrid false door stela of jrtj-sn, Abydos [96]",
@@ -10329,7 +10329,7 @@
       }
     },
     {
-      "@id": "198+Paris",
+      "@id": "C 15",
       "type": "Feature",
       "properties": {
         "title": "Hybrid false door stela of ab-jHw, Abydos [198]",
@@ -10352,7 +10352,7 @@
       }
     },
     {
-      "@id": "470+Paris",
+      "@id": "C 28 / N 182",
       "type": "Feature",
       "properties": {
         "title": "False door of sbk-Htp, Abydos [470]",
@@ -10375,7 +10375,7 @@
       }
     },
     {
-      "@id": "156+Paris",
+      "@id": "C 158 / N 310",
       "type": "Feature",
       "properties": {
         "title": "False door of jrj-n-Axt, unknown [156]",
@@ -10398,7 +10398,7 @@
       }
     },
     {
-      "@id": "113+Paris",
+      "@id": "C 159 / N 309",
       "type": "Feature",
       "properties": {
         "title": "False door of jpj, Saqqara [113]",
@@ -10421,7 +10421,7 @@
       }
     },
     {
-      "@id": "360+Paris",
+      "@id": "C 160 / E 3135",
       "type": "Feature",
       "properties": {
         "title": "Tall, elongated stela of HAgj, Abydos [360]",
@@ -10444,7 +10444,7 @@
       }
     },
     {
-      "@id": "104+Paris",
+      "@id": "C 161 / E 3466",
       "type": "Feature",
       "properties": {
         "title": "False door of jww, Abydos [104]",
@@ -10467,7 +10467,7 @@
       }
     },
     {
-      "@id": "168+Paris",
+      "@id": "C 164 / E 39094",
       "type": "Feature",
       "properties": {
         "title": "False door of jsj, North Saqqara [168]",
@@ -10490,7 +10490,7 @@
       }
     },
     {
-      "@id": "271+Paris",
+      "@id": "C 165",
       "type": "Feature",
       "properties": {
         "title": "Stela of mrwt, Giza or Saqqara [271]",
@@ -10513,7 +10513,7 @@
       }
     },
     {
-      "@id": "+Paris",
+      "@id": "C 198 / E 3218",
       "type": "Feature",
       "properties": {
         "title": "Tall, elongated stela of Hm-wr, probably Abydos",
@@ -10536,7 +10536,7 @@
       }
     },
     {
-      "@id": "309+Paris",
+      "@id": "C 234",
       "type": "Feature",
       "properties": {
         "title": "Stela of nbbj, El-Hawawish [309]",
@@ -10559,7 +10559,7 @@
       }
     },
     {
-      "@id": "507+Paris",
+      "@id": "C 239 / E 10480",
       "type": "Feature",
       "properties": {
         "title": "Stela of st-nt-wjA (nSmt), Naga ed-Der [507]",
@@ -10582,7 +10582,7 @@
       }
     },
     {
-      "@id": "305+Paris",
+      "@id": "C 242 / E 8404",
       "type": "Feature",
       "properties": {
         "title": "False door of nb.sn, unknown [305]",
@@ -10605,7 +10605,7 @@
       }
     },
     {
-      "@id": "169+Paris",
+      "@id": "C 250 / E 6206",
       "type": "Feature",
       "properties": {
         "title": "False door of jsj, probably Memphis [169]",
@@ -10628,7 +10628,7 @@
       }
     },
     {
-      "@id": "167+Paris",
+      "@id": "C 251 / E 6853",
       "type": "Feature",
       "properties": {
         "title": "False door of jsj, probably Saqqara [167]",
@@ -10651,7 +10651,7 @@
       }
     },
     {
-      "@id": "92+Paris",
+      "@id": "C 252 / E 7171",
       "type": "Feature",
       "properties": {
         "title": "Stela of unknown, probably Thebes [92]",
@@ -10674,7 +10674,7 @@
       }
     },
     {
-      "@id": "509+Paris",
+      "@id": "C 293 / E 11343",
       "type": "Feature",
       "properties": {
         "title": "Stela of stjbj, probably Abydos [509]",
@@ -10697,7 +10697,7 @@
       }
     },
     {
-      "@id": "591+Paris",
+      "@id": "C 300 / E 10730",
       "type": "Feature",
       "properties": {
         "title": "Stela of DHw, Thinite area [591]",
@@ -10720,7 +10720,7 @@
       }
     },
     {
-      "@id": "203+Paris",
+      "@id": "C 304 / E 11334",
       "type": "Feature",
       "properties": {
         "title": "Tall, elongated stela of anxttf, unknown [203]",
@@ -10743,7 +10743,7 @@
       }
     },
     {
-      "@id": "525+Paris",
+      "@id": "C 323 / E 22038",
       "type": "Feature",
       "properties": {
         "title": "False door of SSj, unknown [525]",
@@ -10766,7 +10766,7 @@
       }
     },
     {
-      "@id": "533+Paris",
+      "@id": "E 14184",
       "type": "Feature",
       "properties": {
         "title": "False door of qy and Sd-Abd, Saqqara [533]",
@@ -10789,7 +10789,7 @@
       }
     },
     {
-      "@id": "27+Paris",
+      "@id": "E 14185",
       "type": "Feature",
       "properties": {
         "title": "Stèle maison of HbAj, South Saqqara [27]",
@@ -10812,7 +10812,7 @@
       }
     },
     {
-      "@id": "+Paris",
+      "@id": "E 14329",
       "type": "Feature",
       "properties": {
         "title": "Lintel of jsj, Edfu",
@@ -10835,7 +10835,7 @@
       }
     },
     {
-      "@id": "206+Paris",
+      "@id": "E 20346",
       "type": "Feature",
       "properties": {
         "title": "Tall, elongated stela of wnj, Abydos [206]",
@@ -10858,7 +10858,7 @@
       }
     },
     {
-      "@id": "293+Paris",
+      "@id": "E 33147",
       "type": "Feature",
       "properties": {
         "title": "Stela of nj-nb-Sma, probably Naqada [293]  ",
@@ -10881,7 +10881,7 @@
       }
     },
     {
-      "@id": "547+Philadelphia",
+      "@id": "23-11-699",
       "type": "Feature",
       "properties": {
         "title": "Stela of [ggj], Sheikh Farag [547]",
@@ -10904,7 +10904,7 @@
       }
     },
     {
-      "@id": "467+Philadelphia",
+      "@id": "29-66-293",
       "type": "Feature",
       "properties": {
         "title": "Stela of sbk-nxtj fqw, Dendera [467]",
@@ -10927,7 +10927,7 @@
       }
     },
     {
-      "@id": "190+Philadelphia",
+      "@id": "29-66-594",
       "type": "Feature",
       "properties": {
         "title": "Stela of jdw, Dendera [190]",
@@ -10950,7 +10950,7 @@
       }
     },
     {
-      "@id": "69+Philadelphia",
+      "@id": "29-66-615",
       "type": "Feature",
       "properties": {
         "title": "Stela of jn-jt.f-jqr, Dendera [69]",
@@ -10973,7 +10973,7 @@
       }
     },
     {
-      "@id": "276+Philadelphia",
+      "@id": "29-66-620",
       "type": "Feature",
       "properties": {
         "title": "Stela of mrrj, Dendera [276]",
@@ -10996,7 +10996,7 @@
       }
     },
     {
-      "@id": "213+Philadelphia",
+      "@id": "29-66-623",
       "type": "Feature",
       "properties": {
         "title": "Stela of wtj, Dendera [213]",
@@ -11019,7 +11019,7 @@
       }
     },
     {
-      "@id": "311+Philadelphia",
+      "@id": "29-66-643",
       "type": "Feature",
       "properties": {
         "title": "Stela of nbtfj, Dendera [311]",
@@ -11042,7 +11042,7 @@
       }
     },
     {
-      "@id": "392+Philadelphia",
+      "@id": "29-66-644",
       "type": "Feature",
       "properties": {
         "title": "Stela of Hnty, Dendera [392]",
@@ -11065,7 +11065,7 @@
       }
     },
     {
-      "@id": "425+Philadelphia",
+      "@id": "29-66-645",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of xa-y-nxt, Dendera [425]",
@@ -11088,7 +11088,7 @@
       }
     },
     {
-      "@id": "224+Philadelphia",
+      "@id": "29-66-668",
       "type": "Feature",
       "properties": {
         "title": "Stela of bbj, Dendera [224]",
@@ -11111,7 +11111,7 @@
       }
     },
     {
-      "@id": "223+Philadelphia",
+      "@id": "29-66-688",
       "type": "Feature",
       "properties": {
         "title": "Stela of bb, Dendera [223]",
@@ -11134,7 +11134,7 @@
       }
     },
     {
-      "@id": "594+Philadelphia",
+      "@id": "29-66-696",
       "type": "Feature",
       "properties": {
         "title": "Stela of unknown, Dendera [594]",
@@ -11157,7 +11157,7 @@
       }
     },
     {
-      "@id": "622+Philadelphia",
+      "@id": "29-66-800",
       "type": "Feature",
       "properties": {
         "title": "Stela fragments of unknown, Dendera [622]*",
@@ -11180,7 +11180,7 @@
       }
     },
     {
-      "@id": "229+Philadelphia",
+      "@id": "29-66-820",
       "type": "Feature",
       "properties": {
         "title": "Stela of bbj, Dendera [229]  ",
@@ -11203,7 +11203,7 @@
       }
     },
     {
-      "@id": "328+Philadelphia",
+      "@id": "40-19-1",
       "type": "Feature",
       "properties": {
         "title": "Stela of nfr-sfxj, Naga ed-Der [328]",
@@ -11226,7 +11226,7 @@
       }
     },
     {
-      "@id": "557+Philadelphia",
+      "@id": "E 16020",
       "type": "Feature",
       "properties": {
         "title": "Stela of TAwtj (rsj), Dendera [557]",
@@ -11249,7 +11249,7 @@
       }
     },
     {
-      "@id": "626+Philadelphia",
+      "@id": "E 17313",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of unknown, Dendera [626]",
@@ -11272,7 +11272,7 @@
       }
     },
     {
-      "@id": "623+Philadelphia",
+      "@id": "E 17878",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of unknown, Dendera [623]",
@@ -11295,7 +11295,7 @@
       }
     },
     {
-      "@id": "398+Port Said",
+      "@id": "Formerly JE 38556",
       "type": "Feature",
       "properties": {
         "title": "False door of Hrj-S.f-nxt III, Saqqara [398]",
@@ -11318,7 +11318,7 @@
       }
     },
     {
-      "@id": "510+Richmond",
+      "@id": "61.4",
       "type": "Feature",
       "properties": {
         "title": "Stela of sTA, Sheikh Farag [510]",
@@ -11341,7 +11341,7 @@
       }
     },
     {
-      "@id": "637+San Antonio",
+      "@id": "91.80.168",
       "type": "Feature",
       "properties": {
         "title": "Stela of unknown, Thinite nome [637]",
@@ -11364,7 +11364,7 @@
       }
     },
     {
-      "@id": "579+San Antonio",
+      "@id": "91.80.169",
       "type": "Feature",
       "properties": {
         "title": "Stela of dSrj, Auled el-Sheikh [579]",
@@ -11387,7 +11387,7 @@
       }
     },
     {
-      "@id": "644A+San Jose",
+      "@id": "RC 1732",
       "type": "Feature",
       "properties": {
         "title": "Stela of unknown, [Saqqara] [644A]",
@@ -11410,7 +11410,7 @@
       }
     },
     {
-      "@id": "159+San Jose",
+      "@id": "RC 2067",
       "type": "Feature",
       "properties": {
         "title": "Stela of jry, Saqqara [159]",
@@ -11433,7 +11433,7 @@
       }
     },
     {
-      "@id": "621+San Jose",
+      "@id": "RC 2574 and 2069",
       "type": "Feature",
       "properties": {
         "title": "Stela of unknown and wife snt, unknown [621]",
@@ -11456,7 +11456,7 @@
       }
     },
     {
-      "@id": "586+Seattle",
+      "@id": "45.11",
       "type": "Feature",
       "properties": {
         "title": "Stela of Dfj, Naqada [586]",
@@ -11479,7 +11479,7 @@
       }
     },
     {
-      "@id": "555+Seattle",
+      "@id": "47.64",
       "type": "Feature",
       "properties": {
         "title": "Stela of TAwtj, unknown [555]",
@@ -11502,7 +11502,7 @@
       }
     },
     {
-      "@id": "274+Sharm el-Sheikh",
+      "@id": "CG 1654 / JE 29259",
       "type": "Feature",
       "properties": {
         "title": "Stela of mrr, probably Rizeiqat [274]",
@@ -11525,7 +11525,7 @@
       }
     },
     {
-      "@id": "364+Sharm el-Sheikh",
+      "@id": "CG 20505",
       "type": "Feature",
       "properties": {
         "title": "Stela of Hpw-jqrt, probably Dra Abu el-Naga [364]",
@@ -11548,7 +11548,7 @@
       }
     },
     {
-      "@id": "371+Sohag",
+      "@id": "JE 28812 / CG 1611",
       "type": "Feature",
       "properties": {
         "title": "Stela of Hm-nwy, Nag el-Mesheikh [371]",
@@ -11571,7 +11571,7 @@
       }
     },
     {
-      "@id": "406+St Petersburg",
+      "@id": "5633",
       "type": "Feature",
       "properties": {
         "title": "Stela of HqA-jb, probably Rizeiqat [406]",
@@ -11594,7 +11594,7 @@
       }
     },
     {
-      "@id": "143+Stockholm",
+      "@id": "1977.8",
       "type": "Feature",
       "properties": {
         "title": "Hybrid false door stela of jn-Hrt-nxt, Naga ed-Der [143]",
@@ -11617,7 +11617,7 @@
       }
     },
     {
-      "@id": "397+Stockholm",
+      "@id": "11407",
       "type": "Feature",
       "properties": {
         "title": "False door of Hrj-S.f-nxt II, Saqqara [397]",
@@ -11640,7 +11640,7 @@
       }
     },
     {
-      "@id": "565+Stockholm",
+      "@id": "11419",
       "type": "Feature",
       "properties": {
         "title": "Stela of Tmrrj, Auled es-Sheikh [565]",
@@ -11663,7 +11663,7 @@
       }
     },
     {
-      "@id": "185+Stockholm",
+      "@id": "11420",
       "type": "Feature",
       "properties": {
         "title": "Hybrid false door stela of jdj, Dendera [185]*",
@@ -11686,7 +11686,7 @@
       }
     },
     {
-      "@id": "495+Stockholm",
+      "@id": "11434",
       "type": "Feature",
       "properties": {
         "title": "False door of snt-jt.s, Saqqara [495]",
@@ -11709,7 +11709,7 @@
       }
     },
     {
-      "@id": "243+Strasbourg",
+      "@id": "344",
       "type": "Feature",
       "properties": {
         "title": "Stela of fgw, Naqada [243]",
@@ -11732,7 +11732,7 @@
       }
     },
     {
-      "@id": "58+Strasbourg",
+      "@id": "345",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of jn-jt.f, Dra Abu el-Naga [58]*",
@@ -11755,7 +11755,7 @@
       }
     },
     {
-      "@id": "460+Suez",
+      "@id": "CG 1458",
       "type": "Feature",
       "properties": {
         "title": "False door of sanxw-gmnj, Saqqara [460]",
@@ -11778,7 +11778,7 @@
       }
     },
     {
-      "@id": "596+Swansea",
+      "@id": "EC 62",
       "type": "Feature",
       "properties": {
         "title": "Stela of unknown, Naqada [596]",
@@ -11801,7 +11801,7 @@
       }
     },
     {
-      "@id": "413+Swansea",
+      "@id": "EC 148",
       "type": "Feature",
       "properties": {
         "title": "Stela of Htpwt, probably Naqada [413]",
@@ -11824,7 +11824,7 @@
       }
     },
     {
-      "@id": "619+Swansea",
+      "@id": "W1366",
       "type": "Feature",
       "properties": {
         "title": "Stela of unknown, probably Rizeiqat [619]*",
@@ -11847,7 +11847,7 @@
       }
     },
     {
-      "@id": "102+Toledo",
+      "@id": "1925.52",
       "type": "Feature",
       "properties": {
         "title": "Stela of jy, Nag el-Mesheikh [102]",
@@ -11870,7 +11870,7 @@
       }
     },
     {
-      "@id": "662+Toledo",
+      "@id": "1947.61",
       "type": "Feature",
       "properties": {
         "title": "Stela of ssn-nxt, Thinite nome [662]",
@@ -11893,7 +11893,7 @@
       }
     },
     {
-      "@id": "88+Turin",
+      "@id": "C.1447",
       "type": "Feature",
       "properties": {
         "title": "Stela of mrw, Thebes [88]",
@@ -11916,7 +11916,7 @@
       }
     },
     {
-      "@id": "652+Turin",
+      "@id": "C.1513",
       "type": "Feature",
       "properties": {
         "title": "Stela of wpwAwt-nxt qmnn, Abydos [652]",
@@ -11939,7 +11939,7 @@
       }
     },
     {
-      "@id": "138+Turin",
+      "@id": "S.1264",
       "type": "Feature",
       "properties": {
         "title": "Stela of jn-Hrt-nxt, Thinite nome [138]",
@@ -11962,7 +11962,7 @@
       }
     },
     {
-      "@id": "584+Turin",
+      "@id": "S.1266",
       "type": "Feature",
       "properties": {
         "title": "Tall, elongated stela of DfAt, Abydos [584]",
@@ -11985,7 +11985,7 @@
       }
     },
     {
-      "@id": "332+Turin",
+      "@id": "S.1267",
       "type": "Feature",
       "properties": {
         "title": "Stela of nmt, Naqada [332]",
@@ -12008,7 +12008,7 @@
       }
     },
     {
-      "@id": "262+Turin",
+      "@id": "S.1269",
       "type": "Feature",
       "properties": {
         "title": "Hybrid false door stela of mry, probably Rizeiqat [262]",
@@ -12031,7 +12031,7 @@
       }
     },
     {
-      "@id": "572+Turin",
+      "@id": "S.1270",
       "type": "Feature",
       "properties": {
         "title": "Stela of Tnnw and nHsy.t, probably Rizeiqat [572]",
@@ -12054,7 +12054,7 @@
       }
     },
     {
-      "@id": "146+Turin",
+      "@id": "S.1271",
       "type": "Feature",
       "properties": {
         "title": "Stela of jnj, probably Rizeiqat [146]",
@@ -12077,7 +12077,7 @@
       }
     },
     {
-      "@id": "163+Turin",
+      "@id": "S.1272",
       "type": "Feature",
       "properties": {
         "title": "Stela of jrt, probably Rizeiqat [163]",
@@ -12100,7 +12100,7 @@
       }
     },
     {
-      "@id": "214+Turin",
+      "@id": "S.1273",
       "type": "Feature",
       "properties": {
         "title": "Stela of wtx-jqr, probably Rizeiqat [214]",
@@ -12123,7 +12123,7 @@
       }
     },
     {
-      "@id": "434+Turin",
+      "@id": "S.1276",
       "type": "Feature",
       "properties": {
         "title": "Stela of xwwj, probably Rizeiqat [434]",
@@ -12146,7 +12146,7 @@
       }
     },
     {
-      "@id": "415+Turin",
+      "@id": "S.1277",
       "type": "Feature",
       "properties": {
         "title": "Stela of Htp-jqr, probably Rizeiqat [415]",
@@ -12169,7 +12169,7 @@
       }
     },
     {
-      "@id": "93+Turin",
+      "@id": "S.1278",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of jn-jt.f, Naqada [93]",
@@ -12192,7 +12192,7 @@
       }
     },
     {
-      "@id": "150+Turin",
+      "@id": "S.1290",
       "type": "Feature",
       "properties": {
         "title": "Stela fragment of jnj-kA.f(j), vicinity of Zawayda [150]",
@@ -12215,7 +12215,7 @@
       }
     },
     {
-      "@id": "602+Turin",
+      "@id": "S.1292",
       "type": "Feature",
       "properties": {
         "title": "Stela of unknown, Naqada [602]",
@@ -12238,7 +12238,7 @@
       }
     },
     {
-      "@id": "+Turin",
+      "@id": "S.1296",
       "type": "Feature",
       "properties": {
         "title": "Stela of unknown, unknown",
@@ -12261,7 +12261,7 @@
       }
     },
     {
-      "@id": "641+Turin",
+      "@id": "S.1310",
       "type": "Feature",
       "properties": {
         "title": "Stela fragments of unknown, Thebes [641]",
@@ -12284,7 +12284,7 @@
       }
     },
     {
-      "@id": "176+Turin",
+      "@id": "S.12451",
       "type": "Feature",
       "properties": {
         "title": "Stela of jtj, Gebelein-Rizeiqat region [176]",
@@ -12307,7 +12307,7 @@
       }
     },
     {
-      "@id": "175+Turin",
+      "@id": "S.13114",
       "type": "Feature",
       "properties": {
         "title": "Stela of jtj, Gebelein [175]",
@@ -12330,7 +12330,7 @@
       }
     },
     {
-      "@id": "609+Turin",
+      "@id": "S.13115",
       "type": "Feature",
       "properties": {
         "title": "Stela of Nubian (?) mercenaries, Gebelein [609]",
@@ -12353,7 +12353,7 @@
       }
     },
     {
-      "@id": "+Turin",
+      "@id": "567?",
       "type": "Feature",
       "properties": {
         "title": "Stela of [bw-jw[///], unknown",
@@ -12376,7 +12376,7 @@
       }
     },
     {
-      "@id": "124+Vatican City",
+      "@id": "MV 22774",
       "type": "Feature",
       "properties": {
         "title": "False door of jpj-Hr-ssnb.f, Saqqara [124]",
@@ -12399,7 +12399,7 @@
       }
     },
     {
-      "@id": "157+Vatican City",
+      "@id": "MV 22775",
       "type": "Feature",
       "properties": {
         "title": "False door of jrj-nxtj, Giza [157]",
@@ -12422,7 +12422,7 @@
       }
     },
     {
-      "@id": "21+Vienna",
+      "@id": "5893",
       "type": "Feature",
       "properties": {
         "title": "Stela of ny-Hb-sd-ppy, Naqada [21]",
@@ -12445,7 +12445,7 @@
       }
     },
     {
-      "@id": "320+Vienna",
+      "@id": "ÄS 5895",
       "type": "Feature",
       "properties": {
         "title": "Hybrid false door stela of nfr-mAat/jtj, unknown [320]",
@@ -12468,7 +12468,7 @@
       }
     },
     {
-      "@id": "7+Vienna",
+      "@id": "8009",
       "type": "Feature",
       "properties": {
         "title": "False door fragments of jr-n-Axt nj-anx-ppy, Giza [7]",
@@ -12491,7 +12491,7 @@
       }
     },
     {
-      "@id": "313+Warsaw",
+      "@id": "138814 MNW",
       "type": "Feature",
       "properties": {
         "title": "Stela of nfr, Edfu [313]",
@@ -12514,7 +12514,7 @@
       }
     },
     {
-      "@id": "+Warsaw",
+      "@id": "139944",
       "type": "Feature",
       "properties": {
         "title": "False door of jsj, Edfu",
